@@ -83,8 +83,7 @@ In this photographic memoir, I attempt to reconstruct my parents’ lives with i
 
 To the reader, I offer this book as a window into the lives of my parents. Photographing the otherwise ordinary lives that they led helped me to see beyond the visible. For me, the camera became a tool to slow down these moments and really observe their relationship and the process of growing old together. With this book, I hope to show what I have seen and share the experience with others.
 
-Spine: ca. 8.2 mm
-
+- Spine: ca. 8.2 mm
 - Finishing: softcover, sewn binding
 - Format: 200 mm x 280 mm (portrait format)
 - Cover: softcover 300 g/m2, Magno Matt Vol. 1.03
