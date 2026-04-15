@@ -1,0 +1,215 @@
+# Pages CMS: content is stored in _data/*.yml and markdown files. Keep paths in sync when editing.
+
+settings:
+  content:
+    merge: true
+
+media:
+  - name: images
+    label: Images & Files
+    input: assets/img
+    output: /assets/img
+    path: assets/img
+
+content:
+
+  - name: works
+    label: Works / Projects
+    type: collection
+    path: _works
+    format: yaml-frontmatter
+    filename: "{name}.md"
+    view:
+      fields: [ title ]
+      primary: title
+      sort: [ title ]
+    fields:
+      - { name: name, label: "URL name", type: string, description: "Sets the file name (e.g. my-project → my-project.md) and the page URL (/my-project/). Use lowercase, hyphens, no spaces. Changing it and saving will rename the file." }
+      - { name: title, label: Title, type: string }
+      - { name: description, label: Description, type: text }
+      - { name: listing_image, label: "Preview image", type: image, description: "Shown in the work list on the homepage." }
+      - { name: year, label: Year, type: string }
+      - { name: layout, label: "Page template", type: string, default: default }
+      - { name: body, label: "Main content", type: rich-text }
+      - { name: links, label: Links, type: object,
+          list: { collapsible: {
+            collapsed: true, summary: "{fields.name}"
+          }},
+          fields: [
+            { name: "name", label: "Name", type: "string" },
+            { name: "href", label: "URL", type: "string" }
+        ]
+      }
+      - { name: hero, label: "Top banner", type: object,
+          list: { collapsible: {
+            collapsed: true, summary: "{index}. {fields.type} - {fields.src}"
+          }},
+          fields: [
+            { name: "type", label: "Image or video", type: "select", default: "image", options: {
+              values: [ "image", "video", "empty" ]
+            }},
+            { name: "src", label: "File", type: "file" },
+            { name: "alt", label: "Image description", type: "string", description: "Short description shown if the image doesn't load." },
+            { name: "size", label: "Width on page (%)", type: "select", default: "100", options: {
+              values: [ "25", "50", "75", "100" ]
+            }}
+        ]
+      }
+      - { name: gallery, label: Gallery, type: object,
+          list: { collapsible: {
+            collapsed: true, summary: "{index}. {fields.position} - {fields.alt}"
+          }},
+          fields: [
+            { name: "type", label: "Image or video", type: "select", default: "image", options: {
+              values: [ "image", "video", "empty" ]
+            }},
+            { name: "src", label: "Image", type: "image" },
+            { name: "alt", label: "Image description", type: "string", description: "Short description shown if the image doesn't load." },
+            { name: "position", label: "Placement on page", type: "select", default: "half", options: {
+              values: [ "full", "center", "half", "top-left", "top-right", "bottom-left", "bottom-right" ]
+            }}
+          ]
+      }
+      - { name: media_gap, label: "Space between gallery images", type: "select", default: "medium", options: {
+          values: [ "none", "small", "medium", "large" ]
+        }, description: "Uses vw so spacing stays balanced on all viewports. none = 0, small = 2vw, medium = 5vw, large = 10vw." }
+      - { name: logos, label: Logos, type: object,
+          list: { collapsible: {
+            collapsed: true, summary: "{index}. {fields.src}"
+          }},
+          fields: [
+            { name: "src", label: "Image", type: "image" },
+            { name: "alt", label: "Image description", type: "string", description: "Short description shown if the image doesn't load." }
+        ]
+      }
+      - { name: gradient, label: "Background gradient colors", type: object, description: "Optional. Enter color codes without # (e.g. ffcc00). Leave empty for no gradient.",
+          fields: [
+            { name: "light", label: "Light mode color", type: "string" },
+            { name: "dark", label: "Dark mode color", type: "string" }
+          ]
+      }
+
+  - name: works_order
+    label: Order of works
+    type: file
+    path: _data/works_order.yml
+    format: yaml
+    description: "Drag items to change the order of works on the homepage. New works appear at the end until you reorder."
+    fields:
+      - name: order
+        label: Order
+        type: object
+        list: { collapsible: { collapsed: true, summary: "{fields.slug}" }}
+        fields:
+          - { name: slug, label: Work, type: string }
+
+  - name: info
+    label: Info / About
+    type: file
+    path: _data/info.yml
+    format: yaml
+    fields:
+      - { name: images, label: Images, type: object,
+          list: { collapsible: {
+            collapsed: true, summary: "{index}. {fields.url} - {fields.size}%"
+          }},
+          fields: [
+            { name: "url", label: "Image", type: "image" },
+            { name: "alt", label: "Image description", type: "string", description: "Short description shown if the image doesn't load." },
+            { name: "size", label: "Width on page (%)", type: "select", default: "100", options: {
+              values: [ "25", "50", "75", "100" ]
+            }}
+        ]
+      }
+      - { name: description, label: Description, type: object,
+          fields: [
+            { name: "text1", label: "First paragraph", type: "string" },
+            { name: "text2", label: "Second paragraph", type: "string" }
+          ]
+      }
+      - { name: body, label: "Description of work", type: rich-text }
+
+  - name: seo
+    label: SEO
+    type: file
+    path: _data/seo.yml
+    format: yaml
+    fields:
+      - { name: url, label: Site URL, type: string }
+      - { name: title, label: Title, type: string, description: "Shown in Google Search Results." }
+      - { name: description, label: Description, type: text, description: "Shown in Google Search Results." }
+      - { name: image, label: "Image when link is shared", type: image, description: "Shown when someone shares your site (e.g. on social media). Optional." }
+      - { name: favicon, label: "Browser tab icon", type: image, description: "Small icon that appears in the browser tab." }
+
+  - name: analytics
+    label: Analytics
+    type: file
+    path: _includes/analytics.html
+    format: code
+    description: "Inserted before </body> in the default layout (e.g. GoatCounter script). Paste HTML only; leave empty to disable."
+
+  - name: gradient
+    label: Gradient (site-wide)
+    type: file
+    path: _data/gradient.yml
+    format: yaml
+    description: "Default background gradient colors. Hex codes without # (e.g. 98f0ff)."
+    fields:
+      - name: gradient
+        label: Default gradient colors
+        type: object
+        fields:
+          - { name: light, label: "Light mode color", type: string }
+          - { name: dark, label: "Dark mode color", type: string }
+
+        
+  - name: company
+    label: Company / Contact
+    type: file
+    path: _data/company.yml
+    format: yaml
+    fields:
+      - { name: company, label: Company, type: string, description: "Shown in: Impressum page." }
+      - { name: address, label: Address, type: text, description: "Shown in: Impressum page." }
+      - { name: tel, label: Phone, type: string, description: "Shown in: Impressum page." }
+      - { name: email, label: Email, type: string, description: "Shown in: Impressum, Privacy (contact), About." }
+      - { name: company_number, label: "Company registration number", type: string, description: "Shown in: Impressum page." }
+      - { name: vat_number, label: "VAT number", type: string, description: "Shown in: Impressum page." }
+      - { name: register, label: "Company register", type: string, description: "Shown in: Impressum page. e.g. Commercial Register of the Canton of Zürich." }
+
+  - name: nav
+    label: Navigation Menu
+    type: file
+    path: _data/nav.yml
+    format: yaml
+    fields:
+      - name: links
+        label: Menu links
+        type: object
+        list: 
+          collapsible:
+            collapsed: true
+            summary: "{fields.label}"
+        fields:
+          - { name: label, label: "Link text", type: string, description: "The text that appears in the menu." }
+          - { name: href, label: "URL or path", type: string, description: "e.g. /about or https://example.com" }
+
+  - name: impressum
+    label: Impressum
+    type: file
+    path: impressum.md
+    format: yaml-frontmatter
+    fields:
+      - { name: layout, label: "Page template", type: string, default: article }
+      - { name: title, label: Title, type: string }
+      - { name: body, label: "Main content", type: rich-text }
+
+  - name: privacy
+    label: Privacy Policy
+    type: file
+    path: privacy.md
+    format: yaml-frontmatter
+    fields:
+      - { name: title, label: Title, type: string }
+      - { name: layout, label: "Page template", type: string, default: article }
+      - { name: body, label: "Main content", type: rich-text, description: "Don't remove {{ ... }} Liquid placeholders for contact info." }
