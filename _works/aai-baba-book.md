@@ -85,11 +85,8 @@ To the reader, I offer this book as a window into the lives of my parents. Photo
 
 Spine: ca. 8.2 mm
 
-Finishing: softcover, sewn binding
-
-Format: 200 mm x 280 mm (portrait format)
-
-Cover: softcover 300 g/m2, Magno Matt Vol. 1.03
-
-Inner pages: 80 pages 135 g/m2, Magno Matt Vol. 1.0
+- Finishing: softcover, sewn binding
+- Format: 200 mm x 280 mm (portrait format)
+- Cover: softcover 300 g/m2, Magno Matt Vol. 1.03
+- Inner pages: 80 pages 135 g/m2, Magno Matt Vol. 1.0
 
