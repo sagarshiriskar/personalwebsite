@@ -33,15 +33,9 @@ description: >-
   experience with others.
 
 
-  - Spine: ca. 8.2 mm
-
-  - Finishing: softcover, sewn binding
-
-  - Format: 200 mm x 280 mm (portrait format)
-
-  - Cover: softcover | 300 g/m2, Magno Matt Vol. 1.03
-
-  - Inner pages: 80 pages | 135 g/m2, Magno Matt Vol. 1.0
+  Spine: ca. 8.2 mm | Finishing: softcover, sewn binding | Format: 200 mm x 280
+  mm (portrait format) | Cover: softcover | 300 g/m2, Magno Matt Vol. 1.03 |
+  Inner pages: 80 pages | 135 g/m2, Magno Matt Vol. 1.0
 links:
   - name: Verlag Kettler
     href: https://www.verlag-kettler.de/en/books/sagar-shiriskar/
