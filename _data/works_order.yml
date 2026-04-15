@@ -1,4 +1,3 @@
----
 order:
-- slug: tukaramji
-- slug: aai-baba-book
+  - slug: aai-baba-book
+  - slug: tukaramji
