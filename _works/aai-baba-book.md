@@ -82,7 +82,6 @@ hero:
     size: "100"
 gradient:
   light: "#2596be"
-  dark: "#2596be"
 ---
 When two people have known each other for years, the way my parents have, the small things they do for each other get lost in the mundaneness of everyday living. It is only in sickness that some of these gestures of love stand out as acts of caring. Aai and Baba (mother and father) always stayed together; and when either fell sick, they cooked for each other, made sure medicines were taken on time, along with a million other small gestures that came naturally to them. When mother fractured her hand, which she has fractured twice, father would assist her in the chores that she would normally attend to. He became her personal nurse, taking care of her meals and personal grooming. Similarly, when my father was diagnosed with Chronic Kidney Disease, my mother became his personal nurse. It was a tremendously challenging time for them, but she took care of him by herself until his death in August 2021.
 
