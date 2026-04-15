@@ -31,9 +31,11 @@ layout: default
     {% if page.links.size > 0 or page.year %}
       <div class="meta">
         {% if page.year %}<p>{{ page.year }}</p>{% endif %}
-        {% for link in page.links %}
-          <a href="{{ link.href }}">{{ link.name }} <i class="icon-arrow"></i></a>
-        {% endfor %}
+        {% if page.links.size > 0 %}
+          {% for link in page.links %}
+            <a href="{{ link.href }}">{{ link.name }} <i class="icon-arrow"></i></a>
+          {% endfor %}
+        {% endif %}
       </div>
     {% endif %}
   </div>

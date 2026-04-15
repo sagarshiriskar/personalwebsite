@@ -2,8 +2,8 @@
 title: आई - बाबा [Aai-Baba / Mother-Father / Mutter-Vater]
 media_gap: none
 layout: work
-name: आई - बाबा [Aai-Baba / Mother-Father / Mutter-Vater]
 year: "2024"
+listing_image: /assets/img/works/aai-baba-book/aai-baba-book.avif
 description: >-
   When two people walk through life together, daily routines often obscure the
   view of the many small things and gestures that unite lovers through an
@@ -28,6 +28,4 @@ description: >-
   attention to the beauty of everyday moments.
 links:
   - href: https://www.verlag-kettler.de/en/books/sagar-shiriskar/
-listing_image: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
-  Works_From Verlag Kettler_1.jpg"
 ---

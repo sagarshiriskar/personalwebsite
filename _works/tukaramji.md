@@ -5,31 +5,31 @@ year: "2015"
 links:
   - name: The Caravan Magazine
     href: https://caravanmagazine.in/vantage/laundryman-responsible-for-friendship-guru-dutt-dev-anand
-listing_image: /assets/img/works/tukaramji.avif
+listing_image: /assets/img/works/tukaramji/tukaramji.avif
 hero:
   - type: image
-    src: /assets/img/works/tukaramji.avif
+    src: /assets/img/works/tukaramji/tukaramji.avif
     alt: Black-and-white portrait of Tukaramji seated in front of large banyan tree roots
     size: "100"
 gallery:
   - type: image
-    src: /assets/img/works/tukaramji-first-published-in-the-caravan.webp
+    src: /assets/img/works/tukaramji/tukaramji-first-published-in-the-caravan.webp
     alt: Caravan magazine feature page featuring Tukaramji on the cover
     position: top-left
   - type: image
-    src: /assets/img/works/tukaramji-with-his-grandchild-looking-into-the-camera2.avif
+    src: /assets/img/works/tukaramji/tukaramji-with-his-grandchild-looking-into-the-camera2.avif
     alt: Grandchild smiling for the camera with Tukaramji blurred behind
     position: full
   - type: image
-    src: /assets/img/works/tukaramji-while-ironing.avif
+    src: /assets/img/works/tukaramji/tukaramji-while-ironing.avif
     alt: Tukaramji ironing clothes on his work table
     position: bottom-right
   - type: image
-    src: /assets/img/works/tukaramji-irnoning-clothes.avif
+    src: /assets/img/works/tukaramji/tukaramji-irnoning-clothes.avif
     alt: Tukaramji smiling with glasses for the camera
     position: top-left
   - type: image
-    src: /assets/img/works/tukaramji-with-his-grandchild-looking-into-the-camera.avif
+    src: /assets/img/works/tukaramji/tukaramji-with-his-grandchild-looking-into-the-camera.avif
     alt: Tukaramji with his grandchild in the laundry workspace
     position: center
 media_gap: medium
