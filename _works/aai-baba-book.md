@@ -3,7 +3,6 @@ title: आई - बाबा [Aai-Baba / Mother-Father / Mutter-Vater]
 media_gap: none
 layout: work
 year: "2024"
-listing_image: /assets/img/works/aai-baba-book/aai-baba-book.avif
 description: >-
   When two people walk through life together, daily routines often obscure the
   view of the many small things and gestures that unite lovers through an
