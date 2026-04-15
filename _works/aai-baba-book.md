@@ -79,7 +79,7 @@ hero:
   - type: image
     src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
       Works_From Verlag Kettler_10.jpg"
-    size: "50"
+    size: "25"
 gradient:
   light: ed9188
 ---
