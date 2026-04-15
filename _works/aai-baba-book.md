@@ -1,6 +1,6 @@
 ---
 title: आई - बाबा [Aai-Baba / Mother-Father / Mutter-Vater]
-media_gap: none
+media_gap: small
 layout: work
 year: "2024"
 description: >-
@@ -31,6 +31,8 @@ links:
 name: आई - बाबा [Aai-Baba / Mother-Father / Mutter-Vater]
 gallery:
   - type: image
+    src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
+      Works_From Verlag Kettler_3.jpg"
     position: half
 listing_image: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
   Works_From Verlag Kettler_2.jpg"
