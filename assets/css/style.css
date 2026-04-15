@@ -53,6 +53,18 @@ a {
   text-underline-offset: 30%;
 }
 
+iframe {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+}
+
+iframe[src*="youtube.com/embed"],
+iframe[src*="youtube-nocookie.com/embed"] {
+  aspect-ratio: 16 / 9;
+}
+
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--heading-font-family);
