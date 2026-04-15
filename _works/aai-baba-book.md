@@ -1,6 +1,6 @@
 ---
 title: आई - बाबा [Aai-Baba / Mother-Father / Mutter-Vater]
-media_gap: small
+media_gap: medium
 layout: work
 year: "2024"
 description: >-
