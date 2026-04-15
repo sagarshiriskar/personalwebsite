@@ -49,16 +49,12 @@ name: आई - बाबा [Aai-Baba / Mother-Father / Mutter-Vater]
 gallery:
   - type: image
     src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
-      Works_From Verlag Kettler_3.jpg"
-    position: top-left
-  - type: image
-    src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
-      Works_From Verlag Kettler_14.jpg"
-    position: top-right
-  - type: image
-    src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
       Works_From Verlag Kettler_10.jpg"
     position: half
+  - type: image
+    src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
+      Works_From Verlag Kettler_3.jpg"
+    position: top-left
   - type: image
     src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
       Works_From Verlag Kettler_11.jpg"
@@ -67,6 +63,10 @@ gallery:
     src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
       Works_From Verlag Kettler_16.jpg"
     position: half
+  - type: image
+    src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
+      Works_From Verlag Kettler_14.jpg"
+    position: top-right
   - type: image
     src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
       Works_From Verlag Kettler_17.jpg"
