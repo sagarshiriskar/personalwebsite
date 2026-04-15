@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<article>
+  <h1>
+    <a href="/">All Works</a> / <p href="{{ page.url }}">{{ page.title }}</p>
+  </h1>
+
+  {% if page.hero %}
+    <div class="work_hero">
+      {% for media in page.hero %}
+        {% if media.type == 'image' %}
+          <img class="media_{{ media.size }}" src="{{ media.src }}" alt="{{ media.alt | default: 'Hero Image' }}" />
+        {% elsif media.type == 'video' %}
+          <video class="media_{{ media.size }}" controls>
+            <source src="{{ media.src }}" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+        {% endif %}
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  <div class="work_content">
+    {% if content %}
+      <div class="text">
+        {{ content | markdownify }}
+      </div>
+    {% endif %}
+    {% if page.links.size > 0 or page.year %}
+      <div class="meta">
+        {% if page.year %}<p>{{ page.year }}</p>{% endif %}
+        {% for link in page.links %}
+          <a href="{{ link.href }}">{{ link.name }} <i class="icon-arrow"></i></a>
+        {% endfor %}
+      </div>
+    {% endif %}
+  </div>
+
+  {% if page.gallery %}
+    {% assign g = page.media_gap | default: "medium" %}
+    {% assign gap_css = site.data.media_gap[g] | default: site.data.media_gap.medium %}
+    <div class="work_gallery{% if gap_css == '0' %} media_gap_none{% endif %}" style="--media-gap: {{ gap_css }};">
+      {% for media in page.gallery %}
+        {% assign pos = media.position | default: 'half' | replace: ' ', '-' %}
+        <div class="gallery_cell position_{{ pos }}">
+          {% if media.type == 'image' %}
+            <img src="{{ media.src }}" alt="{{ media.alt | default: 'Hero Image' }}" />
+          {% elsif media.type == 'video' %}
+            <video controls>
+              <source src="{{ media.src }}" type="video/mp4">
+            </video>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  {% endif %}
+
+  {% if page.logos %}
+    <div class="logo_gallery">
+      {% for media in page.logos %}
+          <img src="{{ media.src }}" alt="{{ media.alt | default: 'Logo Image' }}" />
+      {% endfor %}
+    </div>
+  {% endif %}
+
+</article>

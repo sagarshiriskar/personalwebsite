@@ -1,0 +1,6 @@
+# Gallery spacing presets (vw = viewport width for balanced spacing on all viewports).
+# Used by work layout: --media-gap is set from page.media_gap (or default: medium).
+none: "0"
+small: "2vw"
+medium: "5vw"
+large: "10vw"

@@ -1,0 +1,32 @@
+---
+title:
+layout: default
+---
+
+{% if data %}{% assign site.data = data %}{% endif %}
+{% assign info = site.data.info %}
+{% assign description = info.description %}
+
+
+<div class="info_left">
+    {% for image in info.images %}
+    <img src="{{ image.url }}" class="media_{{ image.size }}" />
+    {% endfor %}
+</div>
+
+<div class="info_right">
+    <div class="description">
+        <p>{{ description.text1 }}</p>
+        <p>{{ description.text2 }}<a href="mailto:{{ site.data.company.email }}">{{ site.data.company.email }}</a></p>
+    </div>
+    {% if info.body %}
+    <div class="row">
+        {{ info.body | markdownify }}
+    </div>
+    {% endif %}
+    <div class="row policies">
+        <a href="/privacy">Privacy</a>
+        <span> · </span>
+        <a href="/impressum">Impressum</a>
+    </div>
+</div>

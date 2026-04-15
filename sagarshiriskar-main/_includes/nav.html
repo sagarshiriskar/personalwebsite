@@ -1,0 +1,20 @@
+<header>
+  <a id="logo_link" href="/">{{ site.data.seo.title }}</a>
+  <nav>
+    {% for item in site.data.nav.links %}
+    <a href="{{ item.href }}">{{ item.label }}</a>
+    {% endfor %}
+  </nav>
+</header>
+
+{% assign gradient = page.gradient | default: site.data.gradient.gradient %}
+{% if gradient.light != blank or gradient.dark != blank %}
+<style>
+  body {
+    background: linear-gradient(
+      -45deg, var(--color-background),
+      light-dark( #{{ gradient.light }}, #{{ gradient.dark }} )
+    )!important;
+  }
+</style>
+{% endif %}

@@ -1,0 +1,26 @@
+# title: Meta Title
+# description: Meta description
+# timezone: UTC
+collections:
+  works:
+    title: Works
+    output: true
+    permalink: /:name/
+baseurl: ''
+highlighter: rouge
+sass:
+    style: compressed
+    sourcemap: always
+plugins:
+- jekyll-feed
+exclude:
+- ".sass-cache/"
+- ".jekyll-cache/"
+- gemfiles/
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/

@@ -1,0 +1,23 @@
+<meta charset="UTF-8">
+<title>{{ site.data.seo.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.data.seo.description }}{% endif %}">
+
+<!-- Open Graph -->
+<meta property="og:title" content="{{ site.data.seo.title }}{% if page.title %} | {{ page.title }}{% endif %}">
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.data.seo.description }}{% endif %}">
+<meta property="og:type" content="website">
+{% if site.data.seo.image != '' and site.data.seo.image != nil %}
+<meta property="og:image" content="{{ site.data.seo.url }}{{ site.data.seo.image }}">
+{% endif %}
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ site.data.seo.title }}{% if page.title %} | {{ page.title }}{% endif %}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.data.seo.description }}{% endif %}">
+{% if site.data.seo.image != '' and site.data.seo.image != nil %}
+<meta name="twitter:image" content="{{ site.data.seo.url }}{{ site.data.seo.image }}">
+{% endif %}
+
+{% if site.data.seo.favicon %}<link rel="icon" type="image/svg+xml" href="{{ site.data.seo.favicon }}">{% endif %}
+<link rel="stylesheet" href="/assets/css/style.css">
