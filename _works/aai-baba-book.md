@@ -66,7 +66,7 @@ gallery:
   - type: image
     src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
       Works_From Verlag Kettler_14.jpg"
-    position: top-right
+    position: half
   - type: image
     src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
       Works_From Verlag Kettler_17.jpg"
@@ -78,8 +78,6 @@ gallery:
   - type: image
     src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
       Works_From Verlag Kettler_18-1.jpg"
-    position: half
-  - type: image
     position: half
 listing_image: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
   Works_From Verlag Kettler_2.jpg"
