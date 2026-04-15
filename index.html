@@ -1,46 +1,20 @@
----
-title:
-layout: default
----
-
-{% if data %}{% assign site.data = data %}{% endif %}
-
-{% if site.works.size > 0 %}
-<ul>
-  {% assign first_listing_image = nil %}
-  {% assign ordered_works = site.data.ordered_works | default: site.works %}
-  {% for work in ordered_works %}
-  {% unless work.draft %}
-  <li hero-url="{{ work.listing_image | default: '-' }}"><a href="{{ work.url }}">
-    <div class="img" style="background-image: url('{{ work.listing_image | default: '-' }}')"></div>
-    <p class="title">{{ work.title }}</p>
-  </a></li>
-    {% if first_listing_image == nil and work.listing_image %}{% assign first_listing_image = work.listing_image %}{% endif %}
-  {% endunless %}
-  {% endfor %}
-</ul>
-<div id="works-preview"></div>
-
-<style>
-  #works-preview {
-    background-image: url('{% if first_listing_image %}{{ first_listing_image | relative_url }}{% endif %}');
-  }
-</style>
-
-<script>
-  // Change Image Preview
-  const works_list = document.querySelectorAll('#main ul li');
-  works_list.forEach(function(item) {
-    item.addEventListener('mouseover', function() {
-      const image = this.getAttribute('hero-url');
-      if (image && image !== '-') {
-        document.getElementById('works-preview').style.backgroundImage = `url('${image}')`;
-        works_list.forEach(x => x.classList.remove('active'));
-        item.classList.add('active');
-      }
-    });
-  });
-</script>
-{% else %}
-<p>No works yet.</p>
-{% endif %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sagar Shiriskar</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Documentary photographer and filmmaker">
+  <link rel="icon" type="image/png" href="/assets/img/meta/favicon.png">
+  <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body style="margin: 0;">
+  <main id="main" style="margin-top: 0; height: 100dvh;">
+    <section style="height: 100%; display: flex; align-items: center; justify-content: center; text-align: center;">
+      <h1 style="margin: 0; font-size: clamp(48px, 7vw, 100px); line-height: 1.05; text-transform: uppercase;">
+        Website Coming Soon
+      </h1>
+    </section>
+  </main>
+</body>
+</html>
