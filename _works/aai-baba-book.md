@@ -32,6 +32,8 @@ name: आई - बाबा [Aai-Baba / Mother-Father / Mutter-Vater]
 gallery:
   - type: image
     position: half
+listing_image: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
+  Works_From Verlag Kettler_2.jpg"
 ---
 When two people walk through life together, daily routines often obscure the view of the many small things and gestures that unite lovers through an invisible bond: they only become evident in exceptional situations.
 
