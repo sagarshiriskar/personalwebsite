@@ -29,7 +29,9 @@ description: >-
 links:
   - name: Verlag Kettler
     href: https://www.verlag-kettler.de/en/books/sagar-shiriskar/
-  - {}
 name: आई - बाबा [Aai-Baba / Mother-Father / Mutter-Vater]
+gallery:
+  - type: image
+    position: half
 ---
 <iframe width="560" height="315" src="[https://www.youtube.com/embed/auFIh6tfAZU?si=4VaKqokISs9TFqWe](https://www.youtube.com/embed/auFIh6tfAZU?si=4VaKqokISs9TFqWe)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
