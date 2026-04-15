@@ -89,7 +89,7 @@ Finishing: softcover, sewn binding
 
 Format: 200 mm x 280 mm (portrait format)
 
-Cover: softcover | 300 g/m2, Magno Matt Vol. 1.03
+Cover: softcover 300 g/m2, Magno Matt Vol. 1.03
 
-Inner pages: 80 pages | 135 g/m2, Magno Matt Vol. 1.0
+Inner pages: 80 pages 135 g/m2, Magno Matt Vol. 1.0
 
