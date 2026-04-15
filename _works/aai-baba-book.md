@@ -52,6 +52,34 @@ gallery:
       Works_From Verlag Kettler_3.jpg"
     position: half
   - type: image
+    src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
+      Works_From Verlag Kettler_14.jpg"
+    position: half
+  - type: image
+    src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
+      Works_From Verlag Kettler_10.jpg"
+    position: half
+  - type: image
+    src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
+      Works_From Verlag Kettler_11.jpg"
+    position: half
+  - type: image
+    src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
+      Works_From Verlag Kettler_16.jpg"
+    position: half
+  - type: image
+    src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
+      Works_From Verlag Kettler_17.jpg"
+    position: half
+  - type: image
+    src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
+      Works_From Verlag Kettler_20.jpg"
+    position: half
+  - type: image
+    src: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
+      Works_From Verlag Kettler_18-1.jpg"
+    position: half
+  - type: image
     position: half
 listing_image: "/assets/img/आई - बाबा [Aai-Baba : Mutter-Vater]_Documentation of
   Works_From Verlag Kettler_2.jpg"
