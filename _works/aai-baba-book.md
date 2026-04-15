@@ -27,5 +27,7 @@ description: >-
   between two people and the process of growing old together, thus drawing
   attention to the beauty of everyday moments.
 links:
-  - href: https://www.verlag-kettler.de/en/books/sagar-shiriskar/
+  - name: Verlag Kettler
+    href: https://www.verlag-kettler.de/en/books/sagar-shiriskar/
+name: आई - बाबा [Aai-Baba / Mother-Father / Mutter-Vater]
 ---
