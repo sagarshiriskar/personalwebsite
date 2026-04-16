@@ -22,10 +22,6 @@ listing_image: /assets/img/das wasser aus der silvretta/das wasser aus der
 gallery:
   - type: image
     src: /assets/img/das wasser aus der silvretta/das wasser aus der
-      silvretta_documentation of work_2.jpg
-    position: half
-  - type: image
-    src: /assets/img/das wasser aus der silvretta/das wasser aus der
       silvretta_documentation of work_6.jpg
     position: half
   - type: image
@@ -52,6 +48,11 @@ gallery:
     src: /assets/img/das wasser aus der silvretta/das wasser aus der
       silvretta_documentation of work_9.jpg
     position: half
+hero:
+  - type: image
+    src: /assets/img/das wasser aus der silvretta/das wasser aus der
+      silvretta_documentation of work_2.jpg
+    size: "100"
 ---
 Dimensions (cms): 50 X 31 (approx) Video (loop) projection  
 
