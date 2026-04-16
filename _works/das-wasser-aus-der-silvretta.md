@@ -52,7 +52,7 @@ hero:
   - type: image
     src: /assets/img/das wasser aus der silvretta/das wasser aus der
       silvretta_documentation of work_2.jpg
-    size: "100"
+    size: "50"
 ---
 Dimensions (cms): 50 X 31 (approx) Video (loop) projection  
 
