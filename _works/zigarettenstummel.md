@@ -7,7 +7,8 @@ listing_image: /assets/img/Zigarettenstummel/zigarettenstummel_11.jpg
 year: "2022"
 layout: default
 links:
-  - href: https://www.kunsthausklosters.ch/?page_id=332
+  - name: Kunsthaus Klosters
+    href: https://www.kunsthausklosters.ch/?page_id=332
   - href: https://www.klosters800.ch/kunsthaus-klosters
 media_gap: medium
 ---
