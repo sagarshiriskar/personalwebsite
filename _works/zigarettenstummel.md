@@ -12,5 +12,13 @@ links:
   - name: Klosters 800
     href: https://www.klosters800.ch/kunsthaus-klosters
 media_gap: medium
+hero:
+  - type: image
+    src: /assets/img/Zigarettenstummel/zigarettenstummel_11.jpg
+    size: "50"
+gallery:
+  - type: image
+    src: /assets/img/Zigarettenstummel/zigarettenstummel_documentation of work_5.jpg
+    position: half
 ---
 Exhibition & installation view - Kunsthaus Klosters - 2022 - Inkjet prints - As Artist in Residence
