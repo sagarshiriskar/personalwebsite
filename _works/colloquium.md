@@ -21,6 +21,7 @@ gallery:
   - type: image
     src: /assets/img/colloquium/Colloquium_Documentation of the work_NIK_1073.jpg
     position: half
+listing_image: /assets/img/colloquium/Colloquium_Documentation of the work_NIK_1040_2.jpg
 ---
 - ca. 19 × 35 × 3 cm
 - Installation view, Open Atelier
