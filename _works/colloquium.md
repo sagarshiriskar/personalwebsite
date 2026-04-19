@@ -10,6 +10,8 @@ description: |-
 year: "2021"
 layout: default
 media_gap: medium
+links:
+  - name: fundaziun nairs
 ---
 - ca. 19 × 35 × 3 cm
 - Installation view, Open Atelier
