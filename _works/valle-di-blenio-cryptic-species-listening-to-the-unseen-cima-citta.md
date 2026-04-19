@@ -77,6 +77,8 @@ hero:
     size: "50"
 gallery:
   - type: image
+    src: /assets/img/valle di blenio ~ cryptic species - listening to the unseen ~
+      cima città/Cryptic Species_Documentation_8.jpg
     position: center
 ---
 DE:
