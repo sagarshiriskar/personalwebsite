@@ -12,6 +12,7 @@ layout: default
 media_gap: medium
 links:
   - name: fundaziun nairs
+    href: https://nairs.ch/de/artists-in-residence/sagar-shiriskar/
 ---
 - ca. 19 × 35 × 3 cm
 - Installation view, Open Atelier
