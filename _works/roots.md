@@ -26,8 +26,11 @@ description: >-
   paper and root
 
   594 × 420 mm each
+
+  Fundaziun Nairs, Nairs Lab, Scuol, Switzerland
 ---
-- Overall installation variable dimensions
 - Mixed media installation with archival photographic prints on archival matte paper and root
+- Fundaziun Nairs, Nairs Lab, Scuol, Switzerland
+- Overall installation variable dimensions
 - 594 × 420 mm each
 
