@@ -20,14 +20,14 @@ gallery:
     src: /assets/img/roots/Roots_Documentation of works_NIK_1231.jpg
     position: half
 description: >-
-  Overall installation variable dimensions
-
   Mixed media installation with archival photographic prints on archival matte
   paper and root
 
-  594 × 420 mm each
-
   Fundaziun Nairs, Nairs Lab, Scuol, Switzerland
+
+  Overall installation variable dimensions
+
+  594 × 420 mm each
 ---
 - Mixed media installation with archival photographic prints on archival matte paper and root
 - Fundaziun Nairs, Nairs Lab, Scuol, Switzerland
