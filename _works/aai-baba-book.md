@@ -39,37 +39,36 @@ description: >-
 links:
   - name: Verlag Kettler
     href: https://www.verlag-kettler.de/en/books/sagar-shiriskar/
-name: आई - बाबा [Aai-Baba / Mother-Father / Mutter-Vater]
+name: aai-Baba_mother-father_mutter-vater
 gallery:
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler3.jpg"
+    src: /assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler3.jpg
     position: top-left
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler11.jpg"
+    src: /assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler11.jpg
     position: half
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler16.jpg"
+    src: /assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler16.jpg
     position: half
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler14.jpg"
+    src: /assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler14.jpg
     position: half
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler17.jpg"
+    src: /assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler17.jpg
     position: half
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler20.jpg"
+    src: /assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler20.jpg
     position: half
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler18-1.jpg"
+    src: /assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler18-1.jpg
     position: half
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler2.jpg"
+    src: /assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler2.jpg
     position: bottom-right
-listing_image: "/assets/img/aai-baba/Documentation of
-  Works_From Verlag Kettler_2.jpg"
+listing_image: /assets/img/aai-baba/Documentation of Works_From Verlag Kettler_2.jpg
 hero:
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler10.jpg"
+    src: /assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler10.jpg
     size: "50"
 gradient:
   light: ed9188
