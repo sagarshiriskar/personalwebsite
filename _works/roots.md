@@ -1,7 +1,7 @@
 ---
 name: roots
 title: roots
-layout: default
+layout: work
 media_gap: medium
 listing_image: /assets/img/roots/Roots_Documentation of works.jpg
 year: "2021"
