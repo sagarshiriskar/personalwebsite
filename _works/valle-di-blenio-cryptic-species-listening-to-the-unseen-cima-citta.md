@@ -63,7 +63,7 @@ description: >-
   alpine orogeny 35 million years ago at depths of up to several tens of
   kilometers
 year: "2022"
-layout: default
+layout: work
 links:
   - name: Cima Città
     href: https://cimacitta.ch/en/call-projects-2022-cryptic-species-these-are-selected-projects

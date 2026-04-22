@@ -42,38 +42,37 @@ links:
 name: आई - बाबा [Aai-Baba / Mother-Father / Mutter-Vater]
 gallery:
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler3.jpg"
+    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler-3.jpg"
     position: top-left
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler11.jpg"
+    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler-11.jpg"
     position: half
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler16.jpg"
+    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler-16.jpg"
     position: half
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler14.jpg"
+    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler-14.jpg"
     position: half
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler17.jpg"
+    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler-17.jpg"
     position: half
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler20.jpg"
+    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler-20.jpg"
     position: half
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler18-1.jpg"
+    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler-18-1.jpg"
     position: half
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler2.jpg"
+    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler-2.jpg"
     position: bottom-right
-listing_image: "/assets/img/aai-baba/Documentation of
-  Works_From Verlag Kettler_2.jpg"
+listing_image: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler-2.jpg"
 hero:
   - type: image
-    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler10.jpg"
+    src: "/assets/img/aai-baba/Documentation-of-Works-From-Verlag-Kettler-10.jpg"
     size: "50"
 gradient:
   light: ed9188
-  dark: ed9188
+  dark: 4E1B17
 ---
 When two people have known each other for years, the way my parents have, the small things they do for each other get lost in the mundaneness of everyday living. It is only in sickness that some of these gestures of love stand out as acts of caring. Aai and Baba (mother and father) always stayed together; and when either fell sick, they cooked for each other, made sure medicines were taken on time, along with a million other small gestures that came naturally to them. When mother fractured her hand, which she has fractured twice, father would assist her in the chores that she would normally attend to. He became her personal nurse, taking care of her meals and personal grooming. Similarly, when my father was diagnosed with Chronic Kidney Disease, my mother became his personal nurse. It was a tremendously challenging time for them, but she took care of him by herself until his death in August 2021.
 

@@ -8,7 +8,7 @@ description: |-
   Fundaziun Nairs, Nairs Lab, Scuol, Switzerland
   Video loop projection on a stone from the Engadin valley
 year: "2021"
-layout: default
+layout: work
 media_gap: medium
 links:
   - name: fundaziun nairs

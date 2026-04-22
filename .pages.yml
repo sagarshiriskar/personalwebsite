@@ -29,7 +29,7 @@ content:
       - { name: description, label: Description, type: text }
       - { name: listing_image, label: "Preview image", type: image, description: "Shown in the work list on the homepage." }
       - { name: year, label: Year, type: string }
-      - { name: layout, label: "Page template", type: string, default: default }
+      - { name: layout, label: "Page template", type: string, hidden: true, default: work }
       - { name: body, label: "Main content", type: rich-text }
       - { name: links, label: Links, type: object,
           list: { collapsible: {
