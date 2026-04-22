@@ -1,5 +1,5 @@
 ---
-name: das wasser aus der silvretta
+name: das_wasser_aus_der_silvretta
 title: das wasser aus der silvretta
 layout: work
 media_gap: small
