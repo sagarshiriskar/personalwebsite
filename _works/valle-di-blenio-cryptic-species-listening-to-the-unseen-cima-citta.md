@@ -1,5 +1,5 @@
 ---
-name: valle di blenio ~ cryptic species - listening to the unseen ~ cima città
+name: valle-di-blenio_cryptic-species_listening-to-the-unseen_cima città
 title: valle di blenio ~ cryptic species - listening to the unseen ~ cima città
 description: >-
   DE:
