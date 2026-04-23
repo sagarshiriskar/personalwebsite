@@ -2,14 +2,14 @@ description:
   text1: "My work spans film, video & photo installations, photo essays and cinematography."
   text2: "For inquiries, please email "
 images:
-  - url: assets/img/about/colloquium.avif
+  - url: "assets/img/about/IMG_8670.jpg"
     size: 100
-  - url: assets/img/about/small.avif
+  - url: "assets/img/about/Image244.jpg"
     size: 25
-  - url: assets/img/about/article1.avif
-    size: 100
-  - url: assets/img/about/article2.avif
-    size: 100
+  - url: "assets/img/about/about — Sagar Shiriskar (3).jpg"
+    size: 50
+  - url: "assets/img/about/about — Sagar Shiriskar (4).webp"
+    size: 50
 body: |-
   ### AS ARTIST IN RESIDENCE
 

@@ -338,6 +338,8 @@ header {
       img {
         width: 100%; max-width: 100%;
         &.media_25 {max-width: 25%}
+        &.media_50 {max-width: 50%}
+        &.media_75 {max-width: 75%}
       }
     }
     .info_right {
