@@ -15,13 +15,13 @@ links:
     href: https://nairs.ch/de/artists-in-residence/sagar-shiriskar/
 hero:
   - type: image
-    src: /assets/img/colloquium/colloquium-nik-0966.jpg
+    src: /assets/img/works/colloquium/colloquium-nik-0966.jpg
     size: "50"
 gallery:
   - type: image
-    src: /assets/img/colloquium/colloquium-nik-1073.jpg
+    src: /assets/img/works/colloquium/colloquium-nik-1073.jpg
     position: half
-listing_image: /assets/img/colloquium/colloquium-nik-1040-2.jpg
+listing_image: /assets/img/works/colloquium/colloquium-nik-1040-2.jpg
 ---
 - ca. 19 × 35 × 3 cm
 - Installation view, Open Atelier

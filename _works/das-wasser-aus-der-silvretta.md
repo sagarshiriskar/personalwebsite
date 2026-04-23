@@ -17,32 +17,32 @@ links:
     href: https://www.kunsthausklosters.ch/?page_id=332
   - name: Klosters 800
     href: https://www.klosters800.ch/kunsthaus-klosters
-listing_image: /assets/img/das-wasser-aus-der-silvretta/silvretta-7.jpg
+listing_image: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-7.jpg
 gallery:
   - type: image
-    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-6.jpg
+    src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-6.jpg
     position: half
   - type: image
-    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-1.jpg
+    src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-1.jpg
     position: half
   - type: image
-    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-3.jpg
+    src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-3.jpg
     position: half
   - type: image
-    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-4.jpg
+    src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-4.jpg
     position: half
   - type: image
-    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-5.jpg
+    src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-5.jpg
     position: half
   - type: image
-    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-8.jpg
+    src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-8.jpg
     position: half
   - type: image
-    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-9.jpg
+    src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-9.jpg
     position: half
 hero:
   - type: image
-    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-2.jpg
+    src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-2.jpg
     size: "25"
 ---
 - Dimensions (cms): 50 X 31 (approx) Video (loop) projection  
