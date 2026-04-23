@@ -316,6 +316,9 @@ header {
       display: flex; gap: 20px;
       align-items: start; place-content: space-between;
       padding: 20px 0;
+      @media (width > 1800px) {
+        width: 50%;
+      }
       .text {
         max-width: 600px;
       }
