@@ -12,7 +12,6 @@ media:
     path: assets/img
 
 content:
-
   - name: works
     label: Works / Projects
     type: collection
