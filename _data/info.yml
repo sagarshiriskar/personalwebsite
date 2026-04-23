@@ -2,13 +2,13 @@ description:
   text1: "My work spans film, video & photo installations, photo essays and cinematography."
   text2: "For inquiries, please email "
 images:
-  - url: "assets/img/about/IMG_8670.jpg"
+  - url: "assets/img/about/kaleidoscope.webp"
     size: 100
-  - url: "assets/img/about/Image244.jpg"
+  - url: "assets/img/about/child-photo.webp"
     size: 25
-  - url: "assets/img/about/about — Sagar Shiriskar (3).jpg"
+  - url: "assets/img/about/glattaler-newspaper-feature.webp"
     size: 50
-  - url: "assets/img/about/about — Sagar Shiriskar (4).webp"
+  - url: "assets/img/about/stadt-dubendorf-magazine-page.webp"
     size: 50
 body: |-
   ### AS ARTIST IN RESIDENCE
