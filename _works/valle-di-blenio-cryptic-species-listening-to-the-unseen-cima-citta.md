@@ -68,17 +68,14 @@ links:
   - name: Cima Città
     href: https://cimacitta.ch/en/call-projects-2022-cryptic-species-these-are-selected-projects
 media_gap: medium
-listing_image: /assets/img/valle di blenio ~ cryptic species - listening to the
-  unseen ~ cima città/Feather.jpg
+listing_image: /assets/img/valle-di-blenio/feather.jpg
 hero:
   - type: image
-    src: /assets/img/valle di blenio ~ cryptic species - listening to the unseen ~
-      cima città/Cima Citta_Documentation of the work_9.jpg
+    src: /assets/img/valle-di-blenio/cima-citta-documentation-of-the-work-9.jpg
     size: "50"
 gallery:
   - type: image
-    src: /assets/img/valle di blenio ~ cryptic species - listening to the unseen ~
-      cima città/Cryptic Species_Documentation_8.jpg
+    src: /assets/img/valle-di-blenio/cryptic-species-documentation-8.jpg
     position: center
 ---
 DE:

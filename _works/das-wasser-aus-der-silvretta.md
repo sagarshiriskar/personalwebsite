@@ -17,41 +17,32 @@ links:
     href: https://www.kunsthausklosters.ch/?page_id=332
   - name: Klosters 800
     href: https://www.klosters800.ch/kunsthaus-klosters
-listing_image: /assets/img/das wasser aus der silvretta/das wasser aus der
-  silvretta_documentation of work_7.jpg
+listing_image: /assets/img/das-wasser-aus-der-silvretta/silvretta-7.jpg
 gallery:
   - type: image
-    src: /assets/img/das wasser aus der silvretta/das wasser aus der
-      silvretta_documentation of work_6.jpg
+    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-6.jpg
     position: half
   - type: image
-    src: /assets/img/das wasser aus der silvretta/das wasser aus der
-      silvretta_documentation of work_1.jpg
+    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-1.jpg
     position: half
   - type: image
-    src: /assets/img/das wasser aus der silvretta/das wasser aus der
-      silvretta_documentation of work_3.jpg
+    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-3.jpg
     position: half
   - type: image
-    src: /assets/img/das wasser aus der silvretta/das wasser aus der
-      silvretta_documentation of work_4.jpg
+    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-4.jpg
     position: half
   - type: image
-    src: /assets/img/das wasser aus der silvretta/das wasser aus der
-      silvretta_documentation of work_5.jpg
+    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-5.jpg
     position: half
   - type: image
-    src: /assets/img/das wasser aus der silvretta/das wasser aus der
-      silvretta_documentation of work_8.jpg
+    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-8.jpg
     position: half
   - type: image
-    src: /assets/img/das wasser aus der silvretta/das wasser aus der
-      silvretta_documentation of work_9.jpg
+    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-9.jpg
     position: half
 hero:
   - type: image
-    src: /assets/img/das wasser aus der silvretta/das wasser aus der
-      silvretta_documentation of work_2.jpg
+    src: /assets/img/das-wasser-aus-der-silvretta/silvretta-2.jpg
     size: "25"
 ---
 - Dimensions (cms): 50 X 31 (approx) Video (loop) projection  
