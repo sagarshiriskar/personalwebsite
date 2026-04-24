@@ -17,4 +17,7 @@ gallery:
   - type: image
     src: /assets/img/works/repose/repose_documentation_of_work_hallotod_festivalflyer.jpg
     position: half
+gradient:
+  light: CEBCAE
+  dark: CEBCAE
 ---
