@@ -28,6 +28,9 @@ description: >-
   Overall installation variable dimensions
 
   594 × 420 mm each
+gradient:
+  light: 544A38
+  dark: 544A38
 ---
 - Mixed media installation with archival photographic prints on archival matte paper and root
 - Fundaziun Nairs, Nairs Lab, Scuol, Switzerland
