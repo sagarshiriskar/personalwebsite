@@ -77,6 +77,9 @@ gallery:
   - type: image
     src: /assets/img/works/valle-di-blenio/cryptic-species-documentation-8.jpg
     position: center
+gradient:
+  light: F9E7CC
+  dark: F9E7CC
 ---
 DE:
 
