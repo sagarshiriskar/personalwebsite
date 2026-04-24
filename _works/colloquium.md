@@ -22,6 +22,9 @@ gallery:
     src: /assets/img/works/colloquium/colloquium-nik-1073.jpg
     position: half
 listing_image: /assets/img/works/colloquium/colloquium-nik-1040-2.jpg
+gradient:
+  light: 88554D
+  dark: 88554D
 ---
 - ca. 19 × 35 × 3 cm
 - Installation view, Open Atelier
