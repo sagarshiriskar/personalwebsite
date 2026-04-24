@@ -44,6 +44,9 @@ hero:
   - type: image
     src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-2.jpg
     size: "25"
+gradient:
+  light: 0C0607
+  dark: 0C0607
 ---
 - Dimensions (cms): 50 X 31 (approx) Video (loop) projection  
 - As artist in residence: Kunsthaus Klosters - 800 years of Klosters  
