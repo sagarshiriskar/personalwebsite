@@ -20,5 +20,8 @@ gallery:
   - type: image
     src: /assets/img/works/zigarettenstummel/zigarettenstummel-documentation-of-work-5.jpg
     position: half
+gradient:
+  light: "334E05"
+  dark: "334E05"
 ---
 Exhibition & installation view - Kunsthaus Klosters - 2022 - Inkjet prints - As Artist in Residence
