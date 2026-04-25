@@ -21,4 +21,7 @@ gallery:
   - type: image
     src: /assets/img/works/mannequin/mannequin_8. img_4594.jpg
     position: half
+  - type: image
+    src: /assets/img/works/mannequin/aktuelle_veranstaltungen_villa_strauli_kultursalon_bistro_und_artists_in_residence_winterthur_restaurant.jpg
+    position: half
 ---
