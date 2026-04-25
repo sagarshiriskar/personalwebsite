@@ -11,4 +11,13 @@ description: >-
 year: "2019"
 layout: work
 media_gap: medium
+listing_image: /assets/img/works/waschhauschen_villa_strauli_circa_1900_2019/waschhauschen_villa_strauli_circa_1900_2019_documentation_of_work_IMG_0279.jpg
+links:
+  - name: Tages Anzeiger
+    href: https://www.tagesanzeiger.ch/kulturmarketing-international-822600171913
 ---
+Dimensions (in cms): 19 X 35 X 3 (Approx)
+
+As an artist in residence | Villa Sträuli | 2019
+
+Video (loop) projection on a brick from the original wash house at the Villa Sträuli (circa 1900)
