@@ -15,7 +15,7 @@ year: "2019"
 hero:
   - type: image
     src: /assets/img/works/manoranjan-nagri/manoranjan_nagri_4.jpg
-    size: "100"
+    size: "50"
 gallery:
   - type: image
     src: /assets/img/works/manoranjan-nagri/manoranjan_nagri_6.jpg
