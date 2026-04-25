@@ -20,6 +20,10 @@ links:
 gradient:
   light: 5A5A5A
   dark: 5A5A5A
+hero:
+  - type: image
+    src: /assets/img/works/waschhauschen_villa_strauli_circa_1900_2019/waschhauschen_villa_strauli_circa_1900_2019_documentation_of_work_IMG_0279.jpg
+    size: "50"
 ---
 Dimensions (in cms): 19 X 35 X 3 (Approx)
 
