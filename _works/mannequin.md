@@ -23,5 +23,8 @@ gallery:
     position: half
   - type: image
     src: /assets/img/works/mannequin/aktuelle_veranstaltungen_villa_strauli_kultursalon_bistro_und_artists_in_residence_winterthur_restaurant.jpg
-    position: half
+    position: bottom-right
+gradient:
+  light: "664218"
+  dark: "664218"
 ---
