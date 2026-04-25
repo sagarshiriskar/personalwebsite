@@ -19,16 +19,16 @@ hero:
 gallery:
   - type: image
     src: /assets/img/works/manoranjan-nagri/manoranjan_nagri_6.jpg
-    position: half
+    position: top-left
   - type: image
     src: /assets/img/works/manoranjan-nagri/manoranjan_nagri_8.jpg
-    position: half
+    position: top-left
   - type: image
     src: /assets/img/works/manoranjan-nagri/manoranjan_nagri_9.jpg
-    position: half
+    position: top-left
   - type: image
     src: /assets/img/works/manoranjan-nagri/manoranjan_nagri_kunst_museum_winterthur_exhibition_flyer.jpg
-    position: bottom-right
+    position: top-left
 gradient:
   light: F79807
   dark: F79807
