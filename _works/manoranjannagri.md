@@ -9,26 +9,26 @@ description: Manoranjan Nagri (translated as ‘amusement city’) is a seasonal
   you have transcended the mundane. It is a moment of pure joy, even if it is
   ephemeral in nature.
 layout: work
-media_gap: small
+media_gap: none
 listing_image: /assets/img/works/manoranjan-nagri/manoranjan_nagri_10.jpg
 year: "2019"
 hero:
   - type: image
     src: /assets/img/works/manoranjan-nagri/manoranjan_nagri_4.jpg
-    size: "25"
+    size: "50"
 gallery:
   - type: image
     src: /assets/img/works/manoranjan-nagri/manoranjan_nagri_6.jpg
-    position: top-left
+    position: half
   - type: image
     src: /assets/img/works/manoranjan-nagri/manoranjan_nagri_8.jpg
-    position: top-left
+    position: half
   - type: image
     src: /assets/img/works/manoranjan-nagri/manoranjan_nagri_9.jpg
-    position: top-left
+    position: half
   - type: image
     src: /assets/img/works/manoranjan-nagri/manoranjan_nagri_kunst_museum_winterthur_exhibition_flyer.jpg
-    position: top-left
+    position: bottom-right
 gradient:
   light: F79807
   dark: F79807
