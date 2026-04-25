@@ -26,6 +26,6 @@ hero:
     size: "50"
 ---
 - Dimensions (in cms): 19 X 35 X 3 (Approx)
-- As an artist in residence | Villa Sträuli | 2019
+- As an artist in residence, Villa Sträuli: 2019
 - Video (loop) projection on a brick from the original wash house at the Villa Sträuli (circa 1900)
 
