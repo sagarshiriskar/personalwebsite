@@ -18,4 +18,7 @@ gallery:
   - type: image
     src: /assets/img/works/mannequin/mannequin_documentation_of_work_kunstkasten_winterthur_villa_strauli_nik_0062.jpg
     position: half
+  - type: image
+    src: /assets/img/works/mannequin/mannequin_8. img_4594.jpg
+    position: half
 ---
