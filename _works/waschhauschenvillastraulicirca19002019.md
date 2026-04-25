@@ -15,6 +15,11 @@ listing_image: /assets/img/works/waschhauschen_villa_strauli_circa_1900_2019/was
 links:
   - name: Tages Anzeiger
     href: https://www.tagesanzeiger.ch/kulturmarketing-international-822600171913
+  - name: Radio Stadtfilter
+    href: https://stadtfilter.ch/sagar-shiriskar-live-im-morgomat/
+gradient:
+  light: 5A5A5A
+  dark: 5A5A5A
 ---
 Dimensions (in cms): 19 X 35 X 3 (Approx)
 
