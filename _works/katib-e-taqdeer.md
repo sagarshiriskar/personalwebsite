@@ -57,7 +57,7 @@ description: >-
   am I to have fed you), it was God’s wish that has fed you, not me.
 year: "2018"
 layout: work
-media_gap: small
+media_gap: medium
 listing_image: /assets/img/works/katib-e-taqdeer/Toggenburger
   Tagblatt_katib-e-taqdeer_tearsheet_newspaper_article.jpeg
 hero:
@@ -65,6 +65,10 @@ hero:
     src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_img_7404.jpg
     size: "50"
 gallery:
+  - type: image
+    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_12. ghalib making a name
+      plate for his customers | img_1857.jpg
+    position: half
   - type: image
     src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_7. a customer sits and
       watches ghalib work late in the afternoon | img_9481.jpg
@@ -82,9 +86,6 @@ gallery:
       | img_0097.jpg
     position: half
   - type: image
-    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_documentation_of_works_nik_3238.jpg
-    position: half
-  - type: image
     src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_img_7388.jpg
     position: half
   - type: image
@@ -97,8 +98,7 @@ gallery:
     src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_img_7414.jpg
     position: half
   - type: image
-    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_12. ghalib making a name
-      plate for his customers | img_1857.jpg
+    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_documentation_of_works_nik_3238.jpg
     position: half
   - type: image
     src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_24. urdu text.jpg
