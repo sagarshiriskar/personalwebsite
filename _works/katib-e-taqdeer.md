@@ -106,6 +106,9 @@ gallery:
 gradient:
   light: A1A1A1
   dark: A1A1A1
+links:
+  - name: Tagblatt
+    href: https://www.tagblatt.ch/ostschweiz/toggenburg/vernissage-in-lichtensteig-dank-crowdfunding-aktion-fand-der-indische-fotograf-sagar-shiriskar-vom-fusse-des-himalaya-in-die-saentisregion-ld.1111667
 ---
 “Katib” Ghalib has been practising his art in the lanes of Urdu Bazaar in Old Delhi for the last 35 years. Mir Ali Tabrizi, an Iranian calligrapher from the 14th century developed this particular style of calligraphy, known as the Nas-Taliq. In the subcontinent, Lahore, Delhi, Lucknow and Hyderabad became thriving centres of the art because of royal patronage. Nawabs and kings would employ these skilled professionals in their court and their support helped the art to flourish. There was pride in being a katib, he says, as it was a skill that very few perfected owing to the years of practice involved. It also meant interaction with a lot of learned people, which added value to life. After studying the art for three years, Ghalib came to Delhi, where he began to practise it as a profession.
 
