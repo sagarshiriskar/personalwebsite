@@ -87,7 +87,7 @@ gallery:
   - type: image
     src: /assets/img/works/katib-e-taqdeer/Toggenburger
       Tagblatt_katib-e-taqdeer_tearsheet_newspaper_article.jpeg
-    position: half
+    position: top-left
   - type: image
     src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_24. urdu text.jpg
     position: bottom-right
