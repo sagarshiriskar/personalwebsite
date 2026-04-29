@@ -82,15 +82,15 @@ gallery:
       | img_0097.jpg
     position: half
   - type: image
+    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_24. urdu text.jpg
+    position: bottom-right
+  - type: image
     src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_documentation_of_works_nik_3238.jpg
     position: half
   - type: image
     src: /assets/img/works/katib-e-taqdeer/Toggenburger
       Tagblatt_katib-e-taqdeer_tearsheet_newspaper_article.jpeg
     position: top-left
-  - type: image
-    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_24. urdu text.jpg
-    position: bottom-right
 gradient:
   light: A1A1A1
   dark: A1A1A1
