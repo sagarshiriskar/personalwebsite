@@ -57,7 +57,7 @@ description: >-
   am I to have fed you), it was God’s wish that has fed you, not me.
 year: "2018"
 layout: work
-media_gap: medium
+media_gap: small
 listing_image: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_12. ghalib
   making a name plate for his customers | img_1857.jpg
 hero:
