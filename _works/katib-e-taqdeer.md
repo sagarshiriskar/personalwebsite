@@ -92,12 +92,6 @@ gallery:
     src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_img_7378.jpg
     position: half
   - type: image
-    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_img_7404.jpg
-    position: half
-  - type: image
-    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_img_7414.jpg
-    position: half
-  - type: image
     src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_documentation_of_works_nik_3238.jpg
     position: half
   - type: image
