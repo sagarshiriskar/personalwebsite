@@ -100,6 +100,8 @@ gallery:
     src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_img_7414.jpg
     position: half
   - type: image
+    src: /assets/img/works/katib-e-taqdeer/Toggenburger
+      Tagblatt_katib-e-taqdeer_tearsheet_newspaper_article.jpeg
     position: half
 gradient:
   light: A1A1A1
