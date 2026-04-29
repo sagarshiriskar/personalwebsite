@@ -66,10 +66,6 @@ hero:
     size: "50"
 gallery:
   - type: image
-    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_12. ghalib making a name
-      plate for his customers | img_1857.jpg
-    position: half
-  - type: image
     src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_7. a customer sits and
       watches ghalib work late in the afternoon | img_9481.jpg
     position: half
