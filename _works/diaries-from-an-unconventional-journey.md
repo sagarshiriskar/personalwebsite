@@ -23,10 +23,6 @@ gradient:
 gallery:
   - type: image
     src: /assets/img/works/diaries from an unconventional
-      journey/diaries_from_an_unconventional_journey_000020.jpg
-    position: half
-  - type: image
-    src: /assets/img/works/diaries from an unconventional
       journey/diaries_from_an_unconventional_journey_000024.jpg
     position: half
   - type: image
@@ -35,11 +31,15 @@ gallery:
     position: half
   - type: image
     src: /assets/img/works/diaries from an unconventional
-      journey/diaries_from_an_unconventional_journey_solothurn_film_festival_000200.jpg
+      journey/diaries_from_an_unconventional_journey_villa_strauli_000166.jpg
     position: half
   - type: image
     src: /assets/img/works/diaries from an unconventional
-      journey/diaries_from_an_unconventional_journey_villa_strauli_000166.jpg
+      journey/diaries_from_an_unconventional_journey_000020.jpg
+    position: half
+  - type: image
+    src: /assets/img/works/diaries from an unconventional
+      journey/diaries_from_an_unconventional_journey_solothurn_film_festival_000200.jpg
     position: half
 listing_image: /assets/img/works/diaries from an unconventional
   journey/tearsheets_newspaper_articles_posters_certificates_website_screenshots_000174.jpg
