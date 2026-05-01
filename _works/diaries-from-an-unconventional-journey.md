@@ -46,6 +46,8 @@ listing_image: /assets/img/works/diaries from an unconventional
 links:
   - name: Swiss Films
     href: https://www.swissfilms.ch/en/movie/diaries-from-an-unconventional-journey/730710f99d3845a393b4e532bbb9cf59
+  - name: www.artfilm.ch
+    href: https://www.swissfilms.ch/en/movie/diaries-from-an-unconventional-journey/730710f99d3845a393b4e532bbb9cf59
 hero:
   - type: image
     src: /assets/img/works/diaries from an unconventional
