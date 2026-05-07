@@ -37,7 +37,6 @@ hero:
   - type: image
     src: /assets/img/works/united_nations_millenium_development_goals_short_films/coal_cannes_film_festival_chance_of_a_lifetime_4.jpg
     size: "25"
-listing_image: /assets/img/works/united_nations_millenium_development_goals_short_films/coal_cannes_film_festival_chance_of_a_lifetime_1.jpg
 gallery:
   - type: image
     src: /assets/img/works/united_nations_millenium_development_goals_short_films/Screen
