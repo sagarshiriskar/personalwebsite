@@ -1,5 +1,5 @@
 ---
-name: the_artisans_of_tambat_ali
+name: the_twilight_home
 title: the twilight home
 description: On reaching Divar island, one feels like time has stood still. It
   is far from the beaches and resorts of the seaside state of Goa that is known
