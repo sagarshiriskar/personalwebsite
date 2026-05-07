@@ -32,7 +32,7 @@ links:
     href: https://dailybruin.com/2014/02/13/ucla-center-helps-create-show-documenting-global-issues
   - name: YouTube
     href: https://youtu.be/amwcc8DELJA?si=Qk6W2TyDY_WOpjG4
-media_gap: medium
+media_gap: small
 hero:
   - type: image
     src: /assets/img/works/united_nations_millenium_development_goals_short_films/Screen
