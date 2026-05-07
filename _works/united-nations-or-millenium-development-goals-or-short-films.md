@@ -39,8 +39,7 @@ hero:
     size: "25"
 gallery:
   - type: image
-    src: /assets/img/works/united_nations_millenium_development_goals_short_films/Screen
-      Shot 2026-05-07 at 06.11.16 AM.png
+    src: /assets/img/works/united_nations_millenium_development_goals_short_films/tearsheets_newspaper_articles_posters_certificates_website_screenshots_000212.jpg
     position: top-left
 listing_image: /assets/img/works/united_nations_millenium_development_goals_short_films/coal_chance_of_a_lifetime_6.jpg
 gradient:
