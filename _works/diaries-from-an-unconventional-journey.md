@@ -42,7 +42,7 @@ gallery:
       journey/diaries_from_an_unconventional_journey_solothurn_film_festival_000200.jpg
     position: half
 listing_image: /assets/img/works/diaries from an unconventional
-  journey/tearsheets_newspaper_articles_posters_certificates_website_screenshots_000174.jpg
+  journey/diaries_from_an_unconventional_journey_3.jpg
 links:
   - name: Swiss Films
     href: https://www.swissfilms.ch/en/movie/diaries-from-an-unconventional-journey/730710f99d3845a393b4e532bbb9cf59
