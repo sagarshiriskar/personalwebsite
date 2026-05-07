@@ -33,8 +33,6 @@ links:
   - name: YouTube
     href: https://youtu.be/amwcc8DELJA?si=Qk6W2TyDY_WOpjG4
 media_gap: medium
-listing_image: /assets/img/works/united_nations_millenium_development_goals_short_films/Screen
-  Shot 2026-05-07 at 06.06.41 AM.png
 hero:
   - type: image
     src: /assets/img/works/united_nations_millenium_development_goals_short_films/Screen
