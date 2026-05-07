@@ -20,18 +20,18 @@ description: In April 2013, Hyde Park-Image Nation, The United Nations
 year: "2013"
 layout: work
 links:
+  - name: YouTube
+    href: https://youtu.be/amwcc8DELJA?si=Qk6W2TyDY_WOpjG4
   - name: United Nations
     href: https://www.un.org/en/ccoi/chance-lifetime
-  - name: UCLA Burkle Center for International Relations
-    href: https://burkle.ucla.edu/burkle/event/10463
-  - name: 66th Annual Cannes Film Festival
-    href: https://www.gettyimages.ae/photos/torch-cannes-day-5-variety-un-hyde-park-imagenation-party-for-chance-of-a-lifetime-the-66th-annual-cannes-film-festival
   - name: Image Nation Abu Dhabi
     href: https://www.imagenationabudhabi.com/tv-shows/chance-of-a-lifetime/
   - name: Hyde Park Entertainment
     href: https://dailybruin.com/2014/02/13/ucla-center-helps-create-show-documenting-global-issues
-  - name: YouTube
-    href: https://youtu.be/amwcc8DELJA?si=Qk6W2TyDY_WOpjG4
+  - name: 66th Annual Cannes Film Festival
+    href: https://www.gettyimages.ae/photos/torch-cannes-day-5-variety-un-hyde-park-imagenation-party-for-chance-of-a-lifetime-the-66th-annual-cannes-film-festival
+  - name: UCLA Burkle Center for International Relations
+    href: https://burkle.ucla.edu/burkle/event/10463
 media_gap: small
 hero:
   - type: image
