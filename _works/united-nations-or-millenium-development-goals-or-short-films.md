@@ -35,18 +35,14 @@ links:
 media_gap: small
 hero:
   - type: image
-    src: /assets/img/works/united_nations_millenium_development_goals_short_films/Screen
-      Shot 2026-05-07 at 06.11.16 AM.png
-    size: "25"
-  - type: image
     src: /assets/img/works/united_nations_millenium_development_goals_short_films/coal_cannes_film_festival_chance_of_a_lifetime_4.jpg
-    size: "100"
+    size: "25"
 listing_image: /assets/img/works/united_nations_millenium_development_goals_short_films/coal_cannes_film_festival_chance_of_a_lifetime_1.jpg
 gallery:
   - type: image
     src: /assets/img/works/united_nations_millenium_development_goals_short_films/Screen
       Shot 2026-05-07 at 06.11.16 AM.png
-    position: half
+    position: top-left
   - type: image
     src: /assets/img/works/united_nations_millenium_development_goals_short_films/coal_cannes_film_festival_chance_of_a_lifetime_3.jpg
     position: half
