@@ -1,5 +1,5 @@
 ---
-name: united nations | millenium development goals | short films
+name: united_nations_millenium_development_goals_short_films
 title: united nations | millenium development goals | short films
 description: In April 2013, Hyde Park-Image Nation, The United Nations
   Organization (UN), the UCLA Burkle Center for International Relations, and
