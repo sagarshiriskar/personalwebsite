@@ -20,7 +20,7 @@ listing_image: /assets/img/works/finding_film/finding_film000042.jpg
 hero:
   - type: image
     src: /assets/img/works/finding_film/finding_film000047.jpg
-    size: "50"
+    size: "25"
 gallery:
   - type: image
     src: /assets/img/works/finding_film/finding_film000027.jpg
