@@ -9,7 +9,7 @@ description: Film is a dying medium, brutally cut short by the advent of digital
   and for most of them digital is a foreign concept, and the process of
   filmmaking is only that which is created through film.
 layout: work
-media_gap: none
+media_gap: small
 links:
   - name: Himal Southasian
     href: https://www.himalmag.com/archives/celluloid-ephemera-photo-essay-2021
