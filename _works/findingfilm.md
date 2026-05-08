@@ -10,4 +10,9 @@ description: Film is a dying medium, brutally cut short by the advent of digital
   filmmaking is only that which is created through film.
 layout: work
 media_gap: medium
+links:
+  - name: Himal Southasian
+    href: https://www.himalmag.com/archives/celluloid-ephemera-photo-essay-2021
+  - name: Nikon
+    href: https://www.nikon-photocontest.com/en/photo/winners/2016_2017/nextgenerationawardphotostory/art_03.html
 ---
