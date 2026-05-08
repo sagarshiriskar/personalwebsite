@@ -93,7 +93,7 @@ links:
 hero:
   - type: image
     src: /assets/img/works/tukaramji/tukaramji_02900014.jpg
-    size: "50"
+    size: "25"
 gallery:
   - type: image
     src: /assets/img/works/tukaramji/tukaramji_04870002.jpg
