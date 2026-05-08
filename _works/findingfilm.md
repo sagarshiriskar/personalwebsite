@@ -16,7 +16,6 @@ links:
   - name: Nikon
     href: https://www.nikon-photocontest.com/en/photo/winners/2016_2017/nextgenerationawardphotostory/art_03.html
 year: "2016"
-listing_image: /assets/img/works/finding_film/finding_film000042.jpg
 hero:
   - type: image
     src: /assets/img/works/finding_film/finding_film000047.jpg
@@ -44,7 +43,7 @@ gallery:
     src: /assets/img/works/finding_film/finding_film000034.jpg
     position: half
   - type: image
-    src: /assets/img/works/finding_film/finding_film000036.jpg
+    src: /assets/img/works/finding_film/finding_film000042.jpg
     position: half
   - type: image
     src: /assets/img/works/finding_film/finding_film000043.jpg
