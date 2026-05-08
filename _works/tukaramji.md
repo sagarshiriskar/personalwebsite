@@ -86,10 +86,27 @@ description: >-
   he has known no other.
 year: "2015"
 layout: work
-media_gap: medium
+media_gap: small
 links:
   - name: Caravan Magazine
     href: https://caravanmagazine.in/vantage/laundryman-responsible-for-friendship-guru-dutt-dev-anand
+hero:
+  - type: image
+    src: /assets/img/works/tukaramji/tukaramji_02900014.jpg
+    size: "50"
+gallery:
+  - type: image
+    src: /assets/img/works/tukaramji/tukaramji_04870002.jpg
+    position: half
+  - type: image
+    src: /assets/img/works/tukaramji/tukaramji_img_1467.jpg
+    position: half
+  - type: image
+    src: /assets/img/works/tukaramji/tukaramji_05330019.jpg
+    position: half
+  - type: image
+    src: /assets/img/works/tukaramji/tukaramji_05400006.jpg
+    position: half
 ---
 One of the things that Tukaram, a dhobi from Pune, regrets the most is the loss of all his family’s photographs in the floods that came when the Khadakwasla dam on the Mutha river, which is close to Pune, burst in 1961. Several photographs of Tukaram and his father with actors and actresses from the past such as V Shantaram, Vishnupant Damle, Ulhas, Sapru, Durga Khote and Guru Dutt, are now lost along with all the other images from the Prabhat Film Company, popularly known as Prabhat Studios in Pune, where his father worked. Prabhat studio was a filmmaking company that had been launched in 1929 by VG Damle, S Fathelal, KR Dhaiber, SB Kulkarni and V Shantaram at Kolhapur, after which the studios were relocated to Pune. Tukaram’s father had been employed with the studio in 1935 when the film Sant Tukaram—a biopic of the eponymous famed seventeenth-century poet and holy man—was being shot there. During an interview at the Film and Television Institute of India (FTII)— an autonomous Institute in Pune that comes under the Ministry of Information and Broadcasting— in 2014, Tukaram said that he was born when the film had just been completed and V Shantaram had suggested that Tukaram’s father name his son after the film. Today Tukaram’s family, his children and grandchildren still reside in the same place. He now takes care of the laundry of the latest generation of students and staff at FTII, which was built after Prabhat studios shut down in 1949.
 
