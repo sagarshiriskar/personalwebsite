@@ -30,9 +30,12 @@ gallery:
     position: half
   - type: image
     src: /assets/img/works/finding_film/finding_film000030.jpg
-    position: half
+    position: center
   - type: image
     src: /assets/img/works/finding_film/finding_film000032.jpg
+    position: half
+  - type: image
+    src: /assets/img/works/finding_film/finding_film000039.jpg
     position: half
   - type: image
     src: /assets/img/works/finding_film/finding_film000033.jpg
@@ -42,9 +45,6 @@ gallery:
     position: half
   - type: image
     src: /assets/img/works/finding_film/finding_film000036.jpg
-    position: half
-  - type: image
-    src: /assets/img/works/finding_film/finding_film000039.jpg
     position: half
   - type: image
     src: /assets/img/works/finding_film/finding_film000043.jpg
