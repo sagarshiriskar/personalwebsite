@@ -2,9 +2,6 @@
 layout: article
 title: Impressum
 ---
-
-# Impressum
-
 {{ site.data.company.company }}
 
 {{ site.data.company.address }}
@@ -13,5 +10,7 @@ title: Impressum
 - Phone: {{ site.data.company.tel }}
 
 Registered in the {{ site.data.company.register }}
+
 - Company number: {{ site.data.company.company_number }}
 - VAT number: {{ site.data.company.vat_number }}
+
