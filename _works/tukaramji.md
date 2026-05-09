@@ -99,12 +99,6 @@ gallery:
     src: /assets/img/works/tukaramji/tukaramji_04870002.jpg
     position: half
   - type: image
-    src: /assets/img/works/tukaramji/tukaramji_img_1467.jpg
-    position: half
-  - type: image
-    src: /assets/img/works/tukaramji/tukaramji_05330019.jpg
-    position: half
-  - type: image
     src: /assets/img/works/tukaramji/tukaramji_05400006.jpg
     position: half
 gradient:
