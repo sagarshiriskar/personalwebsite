@@ -72,7 +72,6 @@ gallery:
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_6. benita
       perciyal | img_5087.jpg
     position: half
-year: MARUTS ↑
 ---
 MARUTS
 
@@ -82,7 +81,9 @@ MARUTS
 
 Vishal K Dar’s art practise is diverse in terms of medium, where transformations and the nocturne are some of the more visible themes. In Maruts*, the artist continues his investigations with site-specific works that create experience territories and hallucinatory zones. In this new work, he re-imagines Maruts, the storm deities, as computer-controlled oscillating beams of light set to varying metronomic meters over a vast reflection pool. This film was made on the installation Maruts.
 
-LA MUNTOGNA - HOMMAGE À RUT PLOUDA →
+LA MUNTOGNA - HOMMAGE À RUT PLOUDA
+
+
 
 Ce projet est né d’une rencontre avec l’auteure romanche Rut Plouda lors de multiple séjours en Basse Engadine, où elle vit dans son village de Ftan. Ses poèmes sont des petits bijoux évoquant avec simplicité la montagne, sa nature, ses habitants. Ces poèmes sont publiés en édition bilingue romanche-français, avec une traduction magnifique qui rend honneur à l’original. La musicalité du Vallader, idiome romanche de cette région d’Engadine, se prête parfaitement à une lecture accompagnée de musique.
 
