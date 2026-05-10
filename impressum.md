@@ -6,11 +6,13 @@ title: Impressum
 
 {{ site.data.company.address }}
 
-- Email: {{ site.data.company.email }}
-- Phone: {{ site.data.company.tel }}
+{{ site.data.company.email }}
 
-Registered in the {{ site.data.company.register }}
+{{ site.data.company.tel }}
 
-- Company number: {{ site.data.company.company_number }}
-- VAT number: {{ site.data.company.vat_number }}
+{{ site.data.company.register }}
+
+{{ site.data.company.company_number }}
+
+{{ site.data.company.vat_number }}
 
