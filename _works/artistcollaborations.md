@@ -25,12 +25,12 @@ gallery:
       | img_0836.jpg
     position: bottom-right
   - type: image
-    src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_13. ranbir kaleka
-      | img_0211.jpg
-    position: half
-  - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_14. ranbir kaleka
       | img_0218.jpg
+    position: half
+  - type: image
+    src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_13. ranbir kaleka
+      | img_0211.jpg
     position: half
   - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_12. pushpamala.n
@@ -59,14 +59,14 @@ gallery:
   - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_9. geeta kapur |
       img_0365.jpg
-    position: half
+    position: top-left
   - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_5. benita
       perciyal | img_1014.jpg
-    position: top-left
+    position: top-right
   - type: image
     src: /assets/img/works/to_let_the_world_in/16. Sudhir Patwardhan | IMG_9374.jpg
-    position: bottom-left
+    position: center
 year: 2011 - 2026
 ---
 **[MARUTS ↗](https://youtu.be/jWRASqrdznU?si=pxzFmuoPcC0HITIm)**
