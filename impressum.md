@@ -16,3 +16,6 @@ title: Impressum
 
 {{ site.data.company.vat_number }}
 
+Copyright:  
+All images, films, and texts on this website are protected by copyright unless otherwise stated.
+
