@@ -2,7 +2,7 @@
 name: artist_collaborations
 title: artist collaborations
 layout: work
-media_gap: medium
+media_gap: small
 links:
   - name: Maruts | Vishal K Dar | India
     href: https://www.youtube.com/watch?v=jWRASqrdznU
