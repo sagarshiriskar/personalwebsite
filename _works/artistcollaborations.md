@@ -35,31 +35,31 @@ gallery:
   - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_12. pushpamala.n
       | img_0935.jpg
-    position: top-right
-  - type: image
-    src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_2. arpita singh |
-      img_9964.jpg
-    position: bottom-left
-  - type: image
-    src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_3. nalini malani
-      | img_9454.jpg
-    position: bottom-right
+    position: top-left
   - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_4. atul dodiya |
       img_9562.jpg
-    position: top-left
+    position: top-right
+  - type: image
+    src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_3. nalini malani
+      | img_9454.jpg
+    position: bottom-left
+  - type: image
+    src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_2. arpita singh |
+      img_9964.jpg
+    position: bottom-right
   - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_7. gargi rainai |
       mg_6156.jpg
-    position: top-right
+    position: half
   - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_9. geeta kapur |
       img_0365.jpg
-    position: bottom-left
+    position: half
   - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_5. benita
       perciyal | img_1014.jpg
-    position: bottom-right
+    position: top-left
   - type: image
     src: /assets/img/works/to_let_the_world_in/16. Sudhir Patwardhan | IMG_9374.jpg
     position: bottom-left
