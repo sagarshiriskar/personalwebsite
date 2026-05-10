@@ -53,6 +53,10 @@ gallery:
       mg_6156.jpg
     position: half
   - type: image
+    src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_6. benita
+      perciyal | img_5087.jpg
+    position: half
+  - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_9. geeta kapur |
       img_0365.jpg
     position: half
@@ -63,10 +67,6 @@ gallery:
   - type: image
     src: /assets/img/works/to_let_the_world_in/16. Sudhir Patwardhan | IMG_9374.jpg
     position: bottom-left
-  - type: image
-    src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_6. benita
-      perciyal | img_5087.jpg
-    position: half
 year: 2011 - 2026
 ---
 **[MARUTS ↗](https://youtu.be/jWRASqrdznU?si=pxzFmuoPcC0HITIm)**
