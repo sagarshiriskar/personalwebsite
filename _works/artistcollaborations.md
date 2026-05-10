@@ -79,13 +79,7 @@ gallery:
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_9. geeta kapur |
       img_0365.jpg
     position: half
-year: MARUTS  Vishal K Dar’s art practise is diverse in terms of medium, where
-  transformations and the nocturne are some of the more visible themes. In
-  Maruts*, the artist continues his investigations with site-specific works that
-  create experience territories and hallucinatory zones. In this new work, he
-  re-imagines Maruts, the storm deities, as computer-controlled oscillating
-  beams of light set to varying metronomic meters over a vast reflection pool.
-  This film was made on the installation Maruts. ↑
+year: MARUTS ↑
 ---
 LA MUNTOGNA - HOMMAGE À RUT PLOUDA
 
