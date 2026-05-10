@@ -79,17 +79,14 @@ gallery:
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_9. geeta kapur |
       img_0365.jpg
     position: half
+year: MARUTS  Vishal K Dar’s art practise is diverse in terms of medium, where
+  transformations and the nocturne are some of the more visible themes. In
+  Maruts*, the artist continues his investigations with site-specific works that
+  create experience territories and hallucinatory zones. In this new work, he
+  re-imagines Maruts, the storm deities, as computer-controlled oscillating
+  beams of light set to varying metronomic meters over a vast reflection pool.
+  This film was made on the installation Maruts. ↑
 ---
-TO LET THE WORLD IN
-
-The first volume of the film chronicles the spirit and legacy of a movement that marked the return to narrativity and figuration in Indian art. The exhibition titled “Place for People”, which was held in Delhi and Bombay (now Mumbai) in 1981, brought together a group of artists and a critic who sought to explore locality, class and politics in their practice. The film traces the artists’ concerns reflected in their work, tracing it down to the present day. Among the inheritors of the legacy of this movement were younger artists who continued this dialogue and also became the interlocutors for the work started by the earlier generation. The artists featured in this volume are Arpita Singh, Gulammohammed Sheikh, Vivan Sundaram, Nilima Sheikh, Nalini Malani, Sudhir Patwardhan, Ranbir Kaleka, Pushpamala N., Anita Dube and Atul Dodiya along with art critic and curator Geeta Kapur. Their conversations see frequent visitations by the endearing spirit of Bhupen Khakhar, their friend and co-artist.
-
-These stills were taken during the making of the film.  
-  
-MARUTS
-
-Vishal K Dar’s art practise is diverse in terms of medium, where transformations and the nocturne are some of the more visible themes. In Maruts*, the artist continues his investigations with site-specific works that create experience territories and hallucinatory zones. In this new work, he re-imagines Maruts, the storm deities, as computer-controlled oscillating beams of light set to varying metronomic meters over a vast reflection pool. This film was made on the installation Maruts.
-
 LA MUNTOGNA - HOMMAGE À RUT PLOUDA
 
 L’Alhambra – Rue de la Rôtisserie 10 – 1204 Genève | Jeudi 3 et vendredi 4 mars 2022 - 20h
@@ -102,4 +99,10 @@ THE SONG OF FOUR SEASONS
 
 Vier Jahreszeiten + vier Kunstschaffende + vier Universen = ein Mundus. Tänzerisch und mit den Mitteln der Kalligrafie, Gesangs und des Films, setzen wir uns mit aktuellen Themen des Wandels und der sozialen Hoffnung auseinander. Dabei finden wir Kraft und Inspiration in den Urqualitäten der Jahreszeiten und entdecken ihre Relevanz für die Kunst und das tägliche Leben.
 
-Vier Jahreszeiten zeigt die Geschichte eines Künstlers auf der Suche nach Inspiration für sein Schaffen. In der Begegnung mit der Inspiration findet er zu tieferen Schichten seines Selbst. Er realisiert, dass der Prozess des Kunstschaffens mit allen Ebenen seines Seins verbunden ist. Der kreative Prozess gleicht dem Wechsel der Jahreszeiten: Der nächste Schritt kommt bestimmt, aber nicht immer genau so wie wir es uns vorstellen.
+Vier Jahreszeiten zeigt die Geschichte eines Künstlers auf der Suche nach Inspiration für sein Schaffen. In der Begegnung mit der Inspiration findet er zu tieferen Schichten seines Selbst. Er realisiert, dass der Prozess des Kunstschaffens mit allen Ebenen seines Seins verbunden ist. Der kreative Prozess gleicht dem Wechsel der Jahreszeiten: Der nächste Schritt kommt bestimmt, aber nicht immer genau so wie wir es uns vorstellen.  
+  
+TO LET THE WORLD IN
+
+The first volume of the film chronicles the spirit and legacy of a movement that marked the return to narrativity and figuration in Indian art. The exhibition titled “Place for People”, which was held in Delhi and Bombay (now Mumbai) in 1981, brought together a group of artists and a critic who sought to explore locality, class and politics in their practice. The film traces the artists’ concerns reflected in their work, tracing it down to the present day. Among the inheritors of the legacy of this movement were younger artists who continued this dialogue and also became the interlocutors for the work started by the earlier generation. The artists featured in this volume are Arpita Singh, Gulammohammed Sheikh, Vivan Sundaram, Nilima Sheikh, Nalini Malani, Sudhir Patwardhan, Ranbir Kaleka, Pushpamala N., Anita Dube and Atul Dodiya along with art critic and curator Geeta Kapur. Their conversations see frequent visitations by the endearing spirit of Bhupen Khakhar, their friend and co-artist.
+
+These stills were taken during the making of the film. ↓
