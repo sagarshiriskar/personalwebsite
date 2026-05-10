@@ -2,11 +2,13 @@
 layout: article
 title: Impressum
 ---
+Email: {{ site.data.company.email }}
+
+Copyright: All images, films, and texts on this website are protected by copyright unless otherwise stated.
+
 {{ site.data.company.company }}
 
 {{ site.data.company.address }}
-
-{{ site.data.company.email }}
 
 {{ site.data.company.tel }}
 
@@ -15,7 +17,3 @@ title: Impressum
 {{ site.data.company.company_number }}
 
 {{ site.data.company.vat_number }}
-
-Copyright:  
-All images, films, and texts on this website are protected by copyright unless otherwise stated.
-
