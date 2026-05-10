@@ -60,20 +60,20 @@ gallery:
       img_9562.jpg
     position: half
   - type: image
-    src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_5. benita
-      perciyal | img_1014.jpg
-    position: half
-  - type: image
-    src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_6. benita
-      perciyal | img_5087.jpg
-    position: half
-  - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_7. gargi rainai |
       mg_6156.jpg
     position: half
   - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_9. geeta kapur |
       img_0365.jpg
+    position: half
+  - type: image
+    src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_5. benita
+      perciyal | img_1014.jpg
+    position: half
+  - type: image
+    src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_6. benita
+      perciyal | img_5087.jpg
     position: half
 year: MARUTS ↑
 ---
