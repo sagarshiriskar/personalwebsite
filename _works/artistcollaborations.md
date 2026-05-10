@@ -67,6 +67,7 @@ gallery:
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_6. benita
       perciyal | img_5087.jpg
     position: half
+year: 2011 - 2026
 ---
 **[MARUTS ↗](https://youtu.be/jWRASqrdznU?si=pxzFmuoPcC0HITIm)**
 
