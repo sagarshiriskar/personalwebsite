@@ -17,16 +17,13 @@ gallery:
       img_1450.jpg
     position: top-right
   - type: image
-    src: /assets/img/works/to_let_the_world_in/16. Sudhir Patwardhan | IMG_9374.jpg
-    position: bottom-left
-  - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_10. gulaam sheikh
       | img_0550.jpg
-    position: bottom-right
+    position: bottom-left
   - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_11. nilima sheikh
       | img_0836.jpg
-    position: half
+    position: bottom-right
   - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_13. ranbir kaleka
       | img_0211.jpg
@@ -34,7 +31,7 @@ gallery:
   - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_14. ranbir kaleka
       | img_0218.jpg
-    position: top-left
+    position: half
   - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_12. pushpamala.n
       | img_0935.jpg
@@ -63,6 +60,9 @@ gallery:
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_5. benita
       perciyal | img_1014.jpg
     position: bottom-right
+  - type: image
+    src: /assets/img/works/to_let_the_world_in/16. Sudhir Patwardhan | IMG_9374.jpg
+    position: bottom-left
   - type: image
     src: /assets/img/works/to_let_the_world_in/to_let_the_world_in_6. benita
       perciyal | img_5087.jpg
