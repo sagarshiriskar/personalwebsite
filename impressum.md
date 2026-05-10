@@ -4,9 +4,10 @@ title: Impressum
 ---
 Sagar Shiriskar
 
-Email: {{ site.data.company.email }}
-
-Copyright: All images, films, and texts on this website are protected by copyright unless otherwise stated.
+- Hosting: Netlify, Inc.
+- Analytics: GoatCounter
+- Email: {{ site.data.company.email }}
+- Copyright: All images, films, and texts on this website are protected by copyright unless otherwise stated.
 
 {{ site.data.company.company }}
 
