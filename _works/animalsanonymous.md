@@ -10,7 +10,7 @@ hero:
     size: "25"
   - type: image
     src: /assets/img/works/animals_anonymous/animals_anonymous_uber_die_verhaltnisse_documentation_of_work_uber_die_verhaltnisse_nov_2025_documentation_of_works_haus_zur_glocke_steckborn_9.jpg
-    size: "50"
+    size: "25"
 media_gap: small
 gallery:
   - type: image
