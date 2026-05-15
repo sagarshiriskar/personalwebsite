@@ -6,7 +6,7 @@ year: 2025 - 2026
 layout: work
 hero:
   - type: image
-    src: /assets/img/works/animals_anonymous/animals_anonymous_uber_die_verhaltnisse_documentation_of_work_uber_die_verhaltnisse_nov_2025_documentation_of_works_haus_zur_glocke_steckborn_19.jpg
+    src: /assets/img/works/animals_anonymous/animals_anonymous_uber_die_verhaltnisse_documentation_of_work_uber_die_verhaltnisse_nov_2025_documentation_of_works_haus_zur_glocke_steckborn_17.jpg
     size: "25"
 media_gap: none
 gallery:
