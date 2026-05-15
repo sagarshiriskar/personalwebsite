@@ -12,4 +12,17 @@ hero:
     src: /assets/img/works/animals_anonymous/animals_anonymous_uber_die_verhaltnisse_documentation_of_work_uber_die_verhaltnisse_nov_2025_documentation_of_works_haus_zur_glocke_steckborn_9.jpg
     size: "50"
 media_gap: medium
+gallery:
+  - type: image
+    src: /assets/img/works/animals_anonymous/animals_anonymous_img_1541.jpg
+    position: top-left
+  - type: image
+    src: /assets/img/works/animals_anonymous/animals_anonymous_img_3735.jpg
+    position: top-right
+  - type: image
+    src: /assets/img/works/animals_anonymous/animals_anonymous_img_4320.jpg
+    position: bottom-left
+  - type: image
+    src: /assets/img/works/animals_anonymous/animals_anonymous_img_7344.jpg
+    position: bottom-right
 ---
