@@ -22,12 +22,6 @@ gallery:
   - type: image
     src: /assets/img/works/animals_anonymous/animals_anonymous_nik_8091.jpg
     position: top-right
-  - type: image
-    src: /assets/img/works/animals_anonymous/animals_anonymous_uber_die_verhaltnisse_documentation_of_work_uber_die_verhaltnisse_nov_2025_documentation_of_works_haus_zur_glocke_steckborn_19.jpg
-    position: top-left
-  - type: image
-    src: /assets/img/works/animals_anonymous/animals_anonymous_uber_die_verhaltnisse_documentation_of_work_uber_die_verhaltnisse_nov_2025_documentation_of_works_haus_zur_glocke_steckborn_flyer.png
-    position: top-left
 links:
   - name: Haus Zur Glocke
     href: https://hauszurglocke.ch/agenda/detail/finissage-von-ueber-die-verhaeltnisse
