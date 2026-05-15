@@ -2,7 +2,7 @@
 name: animals_anonymous
 title: animals anonymous
 listing_image: /assets/img/works/animals_anonymous/animals_anonymous_nik_8091_1X1.jpg
-year: 2025 - 2026
+year: "2025"
 layout: work
 hero:
   - type: image
