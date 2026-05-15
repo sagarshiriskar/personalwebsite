@@ -68,6 +68,8 @@ gallery:
     src: /assets/img/works/to_let_the_world_in/16. Sudhir Patwardhan | IMG_9374.jpg
     position: center
 year: 2011 - 2026
+listing_image: /assets/img/works/to_let_the_world_in/to_let_the_world_in_5.
+  benita perciyal | img_1014_1X1.jpg
 ---
 **[MARUTS ↗](https://youtu.be/jWRASqrdznU?si=pxzFmuoPcC0HITIm)**
 
