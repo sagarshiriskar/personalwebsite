@@ -12,15 +12,9 @@ media_gap: none
 gallery:
   - type: image
     src: /assets/img/works/animals_anonymous/animals_anonymous_img_3735.jpg
-    position: top-right
-  - type: image
-    src: /assets/img/works/animals_anonymous/animals_anonymous_img_4320.jpg
-    position: bottom-left
+    position: top-left
   - type: image
     src: /assets/img/works/animals_anonymous/animals_anonymous_img_7344.jpg
-    position: bottom-right
-  - type: image
-    src: /assets/img/works/animals_anonymous/animals_anonymous_nik_8091.jpg
     position: top-right
 links:
   - name: Haus Zur Glocke
