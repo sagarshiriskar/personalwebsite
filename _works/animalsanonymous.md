@@ -28,4 +28,7 @@ gallery:
   - type: image
     src: /assets/img/works/animals_anonymous/animals_anonymous_nik_8091.jpg
     position: top-right
+links:
+  - name: Haus Zur Glocke
+    href: https://hauszurglocke.ch/agenda/detail/finissage-von-ueber-die-verhaeltnisse
 ---
