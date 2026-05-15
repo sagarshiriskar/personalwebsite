@@ -22,4 +22,10 @@ gallery:
   - type: image
     src: /assets/img/works/animals_anonymous/animals_anonymous_img_7344.jpg
     position: bottom-right
+  - type: image
+    src: /assets/img/works/animals_anonymous/animals_anonymous_nik_7155.jpg
+    position: top-left
+  - type: image
+    src: /assets/img/works/animals_anonymous/animals_anonymous_nik_8091.jpg
+    position: top-right
 ---
