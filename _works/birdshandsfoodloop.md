@@ -27,7 +27,7 @@ gallery:
     src: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_1_1X1.jpg
     position: center
 gradient:
-  light: 2C3B2E
+  light: "4E9262"
   dark: "304233"
 ---
 Wir Menschen leben über das Mass hinaus. Wir streben nach immer grösseren Gesten und Gedanken, besitzen meist viel mehr als wir brauchen. So berührt der Titel „Über die Verhältnisse“ eine globale Realität: Wir verbrauchen mehr Ressourcen, als unser Planet bereitstellen kann. Wie spiegelt sich diese Spannung zwischen Überkonsum und dem Bewusstsein der End­ lichkeit unserer Ressourcen in der Kunst wider? Vermag die künstlerische Dimension von Nachhaltig- keit mehr zu sein als die Verwendung von recycelten Materialien und systemkritischen Sujets? Kann Kunst als ästhetischer Im- pulsgeber uns zum Umdenken bewegen? Welche Ansätze und Visionen hält die Kunst bereit, um die Verhältnisse anders zu sehen?
