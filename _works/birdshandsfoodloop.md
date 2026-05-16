@@ -24,8 +24,8 @@ hero:
     size: "50"
 gallery:
   - type: image
-    src: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_3_1X1.jpg
-    position: top-left
+    src: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_1_1X1.jpg
+    position: center
 gradient:
   light: 2C3B2E
   dark: "304233"
