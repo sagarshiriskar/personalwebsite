@@ -42,33 +42,33 @@ links:
 name: aai-baba_mother-father_mutter-vater
 gallery:
   - type: image
-    src: "/assets/img/works/aai-baba/verlag-kettler-3.jpg"
+    src: /assets/img/works/aai-baba/verlag-kettler-3.jpg
     position: top-left
   - type: image
-    src: "/assets/img/works/aai-baba/verlag-kettler-11.jpg"
+    src: /assets/img/works/aai-baba/verlag-kettler-11.jpg
     position: half
   - type: image
-    src: "/assets/img/works/aai-baba/verlag-kettler-16.jpg"
+    src: /assets/img/works/aai-baba/verlag-kettler-16.jpg
     position: half
   - type: image
-    src: "/assets/img/works/aai-baba/verlag-kettler-14.jpg"
+    src: /assets/img/works/aai-baba/verlag-kettler-14.jpg
     position: half
   - type: image
-    src: "/assets/img/works/aai-baba/verlag-kettler-17.jpg"
+    src: /assets/img/works/aai-baba/verlag-kettler-17.jpg
     position: half
   - type: image
-    src: "/assets/img/works/aai-baba/verlag-kettler-20.jpg"
+    src: /assets/img/works/aai-baba/verlag-kettler-20.jpg
     position: half
   - type: image
-    src: "/assets/img/works/aai-baba/verlag-kettler-18-1.jpg"
+    src: /assets/img/works/aai-baba/verlag-kettler-18-1.jpg
     position: half
   - type: image
-    src: "/assets/img/works/aai-baba/verlag-kettler-2.jpg"
+    src: /assets/img/works/aai-baba/verlag-kettler-2.jpg
     position: bottom-right
-listing_image: "/assets/img/works/aai-baba/verlag-kettler-2.jpg"
+listing_image: /assets/img/works/aai-baba/verlag-kettler-2.jpg
 hero:
   - type: image
-    src: "/assets/img/works/aai-baba/verlag-kettler-10.jpg"
+    src: /assets/img/works/aai-baba/verlag-kettler-10.jpg
     size: "50"
 gradient:
   light: ed9188
@@ -85,4 +85,3 @@ To the reader, I offer this book as a window into the lives of my parents. Photo
 - Format: 200 mm x 280 mm (portrait format)
 - Cover: softcover 300 g/m2, Magno Matt Vol. 1.03
 - Inner pages: 80 pages 135 g/m2, Magno Matt Vol. 1.0
-
