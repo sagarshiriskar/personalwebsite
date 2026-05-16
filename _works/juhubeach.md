@@ -62,7 +62,7 @@ gradient:
   dark: ACA097
 hero:
   - type: image
-    src: /assets/img/works/juhu beach/juhu_beach_2025_documenatation_of_work_9.png
+    src: /assets/img/works/juhu beach/juhu_beach_2025_documenatation_of_work_3.png
     size: "100"
 ---
 Juhu Beach is a beach in Mumbai, India. I began photographing it on 25 October 2012 and continued over several years. The last image was taken on 30 January 2020.
