@@ -14,5 +14,8 @@ description: "Wir Menschen leben über das Mass hinaus. Wir streben nach immer
   und systemkritischen Sujets? Kann Kunst als ästhetischer Im- pulsgeber uns zum
   Umdenken bewegen? Welche Ansätze und Visionen hält die Kunst bereit, um die
   Verhältnisse anders zu sehen?"
+links:
+  - name: Haus Zur Glocke
+    href: https://hauszurglocke.ch/agenda/detail/finissage-von-ueber-die-verhaeltnisse
 ---
 Wir Menschen leben über das Mass hinaus. Wir streben nach immer grösseren Gesten und Gedanken, besitzen meist viel mehr als wir brauchen. So berührt der Titel „Über die Verhältnisse“ eine globale Realität: Wir verbrauchen mehr Ressourcen, als unser Planet bereitstellen kann. Wie spiegelt sich diese Spannung zwischen Überkonsum und dem Bewusstsein der End­ lichkeit unserer Ressourcen in der Kunst wider? Vermag die künstlerische Dimension von Nachhaltig- keit mehr zu sein als die Verwendung von recycelten Materialien und systemkritischen Sujets? Kann Kunst als ästhetischer Im- pulsgeber uns zum Umdenken bewegen? Welche Ansätze und Visionen hält die Kunst bereit, um die Verhältnisse anders zu sehen?
