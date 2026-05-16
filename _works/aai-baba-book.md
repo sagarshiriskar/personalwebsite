@@ -40,6 +40,7 @@ links:
   - name: Verlag Kettler
     href: https://www.verlag-kettler.de/en/books/sagar-shiriskar/
   - name: Buy the book
+    href: https://buy.stripe.com/6oU7sM2nq4tk19M1o40Jq00
 name: aai-baba_mother-father_mutter-vater
 gallery:
   - type: image
@@ -87,12 +88,11 @@ To the reader, I offer this book as a window into the lives of my parents. Photo
 - Cover: softcover 300 g/m2, Magno Matt Vol. 1.03
 - Inner pages: 80 pages 135 g/m2, Magno Matt Vol. 1.0
 
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
+
 
 <stripe-buy-button
   buy-button-id="buy_btn_1SEOmKJGT98dPDirKmfBpEWh"
   publishable-key="pk_live_51JMJR1JGT98dPDirqTgZF2D5TTvAuheqexIQAs7Vwape4FINdbEVFl2U1HBhkx4gDNRvN1OEeYJKCm7Dhopajp5T00z7CO3Mr8"
->
-</stripe-buy-button>
+
+
+
