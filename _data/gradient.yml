@@ -1,4 +1,3 @@
-# Site-wide gradient. Pages can override by setting the same keys in front matter.
 gradient:
-  light: 98f0ff
-  dark: 001a3a
+  light: 071a1f
+  dark: 071a1f
