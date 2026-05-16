@@ -29,6 +29,7 @@ links:
     href: https://www.89books.com/shop/products/sagar-shiriskar-juhu-beach
   - name: Instagram
     href: https://www.instagram.com/p/DV0ZaYRDMs5/?img_index=1
+  - {}
 gallery:
   - type: image
     src: /assets/img/works/juhu beach/juhu_beach_2025_documenatation_of_work_1.png
@@ -68,13 +69,3 @@ Juhu Beach is a beach in Mumbai, India. I began photographing it on 25 October 2
 - 57 colour photographs
 - ISBN 979-12-80423-76-4
 - First edition, November 2025
-
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
-
-<stripe-buy-button
-  buy-button-id="buy_btn_1SEOmKJGT98dPDirKmfBpEWh"
-  publishable-key="pk_live_51JMJR1JGT98dPDirqTgZF2D5TTvAuheqexIQAs7Vwape4FINdbEVFl2U1HBhkx4gDNRvN1OEeYJKCm7Dhopajp5T00z7CO3Mr8"
->
-</stripe-buy-button>
