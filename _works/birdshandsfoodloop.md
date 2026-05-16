@@ -17,5 +17,20 @@ description: "Wir Menschen leben über das Mass hinaus. Wir streben nach immer
 links:
   - name: Haus Zur Glocke
     href: https://hauszurglocke.ch/agenda/detail/finissage-von-ueber-die-verhaeltnisse
+listing_image: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_3_1X1.jpg
+hero:
+  - type: image
+    src: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_5_original_documentation_of_work_.jpg
+    size: "50"
+gallery:
+  - type: image
+    src: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_1_tearsheet.jpg
+    position: top-left
+  - type: image
+    src: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_6_original_documentation_of_work_.jpg
+    position: half
+gradient:
+  light: 2C3B2E
+  dark: "304233"
 ---
 Wir Menschen leben über das Mass hinaus. Wir streben nach immer grösseren Gesten und Gedanken, besitzen meist viel mehr als wir brauchen. So berührt der Titel „Über die Verhältnisse“ eine globale Realität: Wir verbrauchen mehr Ressourcen, als unser Planet bereitstellen kann. Wie spiegelt sich diese Spannung zwischen Überkonsum und dem Bewusstsein der End­ lichkeit unserer Ressourcen in der Kunst wider? Vermag die künstlerische Dimension von Nachhaltig- keit mehr zu sein als die Verwendung von recycelten Materialien und systemkritischen Sujets? Kann Kunst als ästhetischer Im- pulsgeber uns zum Umdenken bewegen? Welche Ansätze und Visionen hält die Kunst bereit, um die Verhältnisse anders zu sehen?
