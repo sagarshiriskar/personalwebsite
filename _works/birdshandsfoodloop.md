@@ -20,15 +20,12 @@ links:
 listing_image: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_3_1X1.jpg
 hero:
   - type: image
-    src: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_5_original_documentation_of_work_.jpg
+    src: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_2_1X1.jpg
     size: "50"
 gallery:
   - type: image
-    src: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_1_tearsheet.jpg
+    src: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_3_1X1.jpg
     position: top-left
-  - type: image
-    src: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_6_original_documentation_of_work_.jpg
-    position: half
 gradient:
   light: 2C3B2E
   dark: "304233"
