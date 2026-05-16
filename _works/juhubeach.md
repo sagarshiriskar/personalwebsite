@@ -21,7 +21,7 @@ description: >-
 
   First edition, November 2025
 layout: work
-media_gap: medium
+media_gap: none
 listing_image: /assets/img/works/juhu beach/juhu_beach_2025_documenatation_of_work_2.png
 year: "2025"
 links:
