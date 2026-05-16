@@ -78,7 +78,7 @@ gradient:
 
 Vishal K Dar’s art practise is diverse in terms of medium, where transformations and the nocturne are some of the more visible themes. In Maruts*, the artist continues his investigations with site-specific works that create experience territories and hallucinatory zones. In this new work, he re-imagines Maruts, the storm deities, as computer-controlled oscillating beams of light set to varying metronomic meters over a vast reflection pool. This film was made on the installation Maruts.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jWRASqrdznU?si=m-8kETyBatGpuSeD&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jWRASqrdznU?si=8EQJm-Hv9X3KkjJ-&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **[LA MUNTOGNA - HOMMAGE À RUT PLOUDA ↗](https://youtu.be/11355OvBxV0?si=PyNeZQ2sPFliT9eQ)**
 
