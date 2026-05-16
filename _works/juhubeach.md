@@ -7,9 +7,6 @@ description: >-
   2020.
 
 
-  First edition, November 2025
-
-
   Softcover
 
   112 pages
@@ -21,6 +18,10 @@ description: >-
   57 colour photographs
 
   ISBN 979-12-80423-76-4
+
+  First edition, November 2025
 layout: work
 media_gap: medium
+listing_image: /assets/img/works/juhu beach/juhu_beach_2025_documenatation_of_work_2.png
+year: "2025"
 ---
