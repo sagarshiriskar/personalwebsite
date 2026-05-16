@@ -1,5 +1,5 @@
 links:
-    - label: Works
-      href: "/"
-    - label: Info
-      href: "/about"
+  - label: Info
+    href: /about
+  - label: Works
+    href: /
