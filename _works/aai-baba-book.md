@@ -39,6 +39,7 @@ description: >-
 links:
   - name: Verlag Kettler
     href: https://www.verlag-kettler.de/en/books/sagar-shiriskar/
+  - name: Buy the book
 name: aai-baba_mother-father_mutter-vater
 gallery:
   - type: image
