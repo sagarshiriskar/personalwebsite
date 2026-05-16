@@ -85,3 +85,13 @@ To the reader, I offer this book as a window into the lives of my parents. Photo
 - Format: 200 mm x 280 mm (portrait format)
 - Cover: softcover 300 g/m2, Magno Matt Vol. 1.03
 - Inner pages: 80 pages 135 g/m2, Magno Matt Vol. 1.0
+
+<script async
+  src="https://js.stripe.com/v3/buy-button.js">
+</script>
+
+<stripe-buy-button
+  buy-button-id="buy_btn_1SEOmKJGT98dPDirKmfBpEWh"
+  publishable-key="pk_live_51JMJR1JGT98dPDirqTgZF2D5TTvAuheqexIQAs7Vwape4FINdbEVFl2U1HBhkx4gDNRvN1OEeYJKCm7Dhopajp5T00z7CO3Mr8"
+>
+</stripe-buy-button>
