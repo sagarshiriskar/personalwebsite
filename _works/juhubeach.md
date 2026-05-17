@@ -76,7 +76,7 @@ Juhu Beach is a beach in Mumbai, India. I began photographing it on 25 October 2
 </script>
 
 <stripe-buy-button
-  buy-button-id="buy_btn_1TXoi7JGT98dPDir3vaNos0y"
+  buy-button-id="buy_btn_1TY0lRJGT98dPDir0ARxQW2W"
   publishable-key="pk_live_51JMJR1JGT98dPDirqTgZF2D5TTvAuheqexIQAs7Vwape4FINdbEVFl2U1HBhkx4gDNRvN1OEeYJKCm7Dhopajp5T00z7CO3Mr8"
 >
 </stripe-buy-button>
