@@ -29,10 +29,7 @@ hero:
     src: /assets/img/works/mannequin/mannequin_documentation_of_work_nairs_lab_fundaziun_nairs_nik_1418.jpg
     size: "50"
 description: >-
-  AUSSTELLUNG
-
-
-  Ein Ausstellungszyklus im Kunstkasten Winterthur
+  Ausstellung | Ein Ausstellungszyklus im Kunstkasten Winterthur
 
 
   In einer Kooperation zwischen dem Kunstkasten und der Villa Sträuli werden die
