@@ -24,6 +24,9 @@ hero:
   - type: image
     src: /assets/img/works/waschhauschen_villa_strauli_circa_1900_2019/waschhauschen_villa_strauli_circa_1900_2019_documentation_of_work_IMG_0279.jpg
     size: "50"
+gallery:
+  - type: video
+    position: half
 ---
 - Dimensions (in cms): 19 X 35 X 3 (Approx)
 - As an artist in residence, Villa Sträuli: 2019
