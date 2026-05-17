@@ -30,7 +30,7 @@ links:
   - name: Instagram
     href: https://www.instagram.com/p/DV0ZaYRDMs5/?img_index=1
   - name: Buy the book
-    href: https://buy.stripe.com/5kQaEY8LO2lcf0CgiY0Jq02
+    href: https://buy.stripe.com/6oU28sbY0gc2dWy9UA0Jq03
 gallery:
   - type: image
     src: /assets/img/works/juhu beach/juhu_beach_2025_documenatation_of_work_1.png
