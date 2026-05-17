@@ -22,6 +22,8 @@ gallery:
     src: /assets/img/works/colloquium/colloquium-nik-1073.jpg
     position: half
   - type: video
+    src: /assets/img/works/colloquium/Colloquium_Documentation of the
+      work_low_res_for_website.mp4
     position: half
 listing_image: /assets/img/works/colloquium/colloquium-nik-1040-2.jpg
 gradient:
