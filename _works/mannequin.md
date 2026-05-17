@@ -21,13 +21,14 @@ gallery:
   - type: image
     src: /assets/img/works/mannequin/mannequin_8. img_4594.jpg
     position: half
-  - type: image
-    src: /assets/img/works/mannequin/aktuelle_veranstaltungen_villa_strauli_kultursalon_bistro_und_artists_in_residence_winterthur_restaurant.jpg
-    position: bottom-right
   - type: video
     src: /assets/img/works/mannequin/documentation_kunstkasten_mannequin_burlesque.mp4
     position: half
 gradient:
   light: "664218"
   dark: "664218"
+hero:
+  - type: image
+    src: /assets/img/works/mannequin/aktuelle_veranstaltungen_villa_strauli_kultursalon_bistro_und_artists_in_residence_winterthur_restaurant.jpg
+    size: "25"
 ---
