@@ -10,7 +10,7 @@ description: >-
   (circa 1900)
 year: "2019"
 layout: work
-media_gap: medium
+media_gap: none
 listing_image: /assets/img/works/waschhauschen_villa_strauli_circa_1900_2019/waschhauschen_villa_strauli_circa_1900_2019_documentation_of_work_IMG_0279.jpg
 links:
   - name: Tages Anzeiger
@@ -26,6 +26,7 @@ hero:
     size: "50"
 gallery:
   - type: video
+    src: /assets/img/works/waschhauschen_villa_strauli_circa_1900_2019/documentation_waschhauschen_villa_strauli_circa_1900_2019.mp4
     position: half
 ---
 - Dimensions (in cms): 19 X 35 X 3 (Approx)
