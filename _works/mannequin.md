@@ -8,19 +8,19 @@ year: "2019"
 gallery:
   - type: image
     src: /assets/img/works/mannequin/mannequin_1. img_0030.jpg
-    position: half
+    position: top-left
   - type: image
     src: /assets/img/works/mannequin/mannequin_documentation_of_work_kunstkasten_winterthur_villa_strauli_nik_9971.jpg
-    position: half
+    position: top-right
   - type: image
     src: /assets/img/works/mannequin/mannequin_documentation_of_work_kunstkasten_winterthur_villa_strauli_nik_0062.jpg
-    position: half
+    position: top-left
   - type: image
     src: /assets/img/works/mannequin/mannequin_8. img_4594.jpg
-    position: half
+    position: top-right
   - type: video
     src: /assets/img/works/mannequin/documentation_kunstkasten_mannequin_burlesque.mp4
-    position: half
+    position: center
 gradient:
   light: "664218"
   dark: "664218"
