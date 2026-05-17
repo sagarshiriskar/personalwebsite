@@ -66,6 +66,9 @@ description: >-
 
 
   Ein Projekt der Stiftung Sulzberg
+links:
+  - name: Stiftung Sulzberg
+    href: https://sulzberg.ch/veranstaltungen.html
 ---
 AUSSTELLUNG
 
