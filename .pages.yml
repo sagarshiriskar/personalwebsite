@@ -62,7 +62,7 @@ content:
             { name: "type", label: "Image or video", type: "select", default: "image", options: {
               values: [ "image", "video", "empty" ]
             }},
-            { name: "src", label: "Image", type: "image" },
+            { name: "src", label: "File", type: "file" },
             { name: "alt", label: "Image description", type: "string", description: "Short description shown if the image doesn't load." },
             { name: "position", label: "Placement on page", type: "select", default: "half", options: {
               values: [ "full", "center", "half", "top-left", "top-right", "bottom-left", "bottom-right" ]
