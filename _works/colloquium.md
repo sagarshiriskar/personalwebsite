@@ -9,7 +9,7 @@ description: |-
   Video loop projection on a stone from the Engadin valley
 year: "2021"
 layout: work
-media_gap: medium
+media_gap: small
 links:
   - name: fundaziun nairs
     href: https://nairs.ch/de/artists-in-residence/sagar-shiriskar/
@@ -20,6 +20,8 @@ hero:
 gallery:
   - type: image
     src: /assets/img/works/colloquium/colloquium-nik-1073.jpg
+    position: half
+  - type: video
     position: half
 listing_image: /assets/img/works/colloquium/colloquium-nik-1040-2.jpg
 gradient:
