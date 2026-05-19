@@ -91,6 +91,9 @@ gallery:
     src: /assets/img/works/katib-e-taqdeer/Toggenburger
       Tagblatt_katib-e-taqdeer_tearsheet_newspaper_article.jpeg
     position: top-left
+  - type: video
+    src: /assets/img/works/katib-e-taqdeer/documentation_of_work_printing_process_katib_e_taqdeer.mp4
+    position: center
 gradient:
   light: A1A1A1
   dark: A1A1A1
