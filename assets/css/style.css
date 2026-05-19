@@ -329,7 +329,7 @@ header {
   }
   /* Info Page */
   &:has(.info_right) {
-    display: grid; grid-template-columns: 1fr 1fr;
+    display: grid; grid-template-columns: 1.2fr 0.8fr;
     height: calc(100svh - var(--header-height));
     overflow-y: auto; overflow-x: hidden; scrollbar-gutter: stable;
     .info_left {
