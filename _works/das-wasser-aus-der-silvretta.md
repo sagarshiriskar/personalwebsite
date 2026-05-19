@@ -40,6 +40,9 @@ gallery:
   - type: image
     src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-9.jpg
     position: half
+  - type: video
+    src: /assets/img/works/das-wasser-aus-der-silvretta/das_wasser_aus_der_silvretta_video_documentation.mp4
+    position: center
 hero:
   - type: image
     src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-2.jpg
