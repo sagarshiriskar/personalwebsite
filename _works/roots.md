@@ -2,7 +2,7 @@
 name: roots
 title: roots
 layout: work
-media_gap: medium
+media_gap: small
 listing_image: /assets/img/works/roots/roots-documentation-of-works.jpg
 year: "2021"
 links:
