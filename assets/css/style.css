@@ -349,10 +349,10 @@ header {
     .info_right {
         border-left: var(--border);
         .description {
-            display: flex; flex-direction: column; gap: 20px;
+            display: flex; flex-direction: column;
             border-bottom: var(--border);
             padding: 40px;
-            p {font-size: 20px; margin: 0}
+            /* p {font-size: 20px; margin: 0} */
             a {font-weight: bold}
         }
         .row {
