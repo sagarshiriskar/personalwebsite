@@ -19,11 +19,7 @@ hero:
     size: "50"
 gallery:
   - type: image
-    src: /assets/img/works/colloquium/colloquium-nik-1073.jpg
-    position: half
-  - type: video
-    src: /assets/img/works/colloquium/Colloquium_Documentation of the
-      work_low_res_for_website.mp4
+    src: /assets/img/works/colloquium/colloquium-nik-1040.jpg
     position: half
   - type: video
     src: /assets/img/works/colloquium/colloquium_documentation_of_the_work_.mp4
