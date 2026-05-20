@@ -79,7 +79,7 @@ gallery:
     position: top-right
 gradient:
   light: F9E7CC
-  dark: F9E7CC
+  dark: 484034
 ---
 DE:
 

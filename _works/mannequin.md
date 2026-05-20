@@ -22,7 +22,7 @@ gallery:
     src: /assets/img/works/mannequin/documentation_kunstkasten_mannequin_burlesque.mp4
     position: center
 gradient:
-  light: "664218"
+  light: "d4bca0"
   dark: "664218"
 hero:
   - type: image

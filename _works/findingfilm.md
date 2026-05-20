@@ -49,7 +49,7 @@ gallery:
     src: /assets/img/works/finding_film/finding_film000043.jpg
     position: half
 gradient:
-  light: 475A47
+  light: acbeac
   dark: 475A47
 listing_image: /assets/img/works/finding_film/finding_film000048.jpg
 ---

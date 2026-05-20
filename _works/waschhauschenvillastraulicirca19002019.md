@@ -18,7 +18,7 @@ links:
   - name: Radio Stadtfilter
     href: https://stadtfilter.ch/sagar-shiriskar-live-im-morgomat/
 gradient:
-  light: 5A5A5A
+  light: 989898
   dark: 5A5A5A
 hero:
   - type: image

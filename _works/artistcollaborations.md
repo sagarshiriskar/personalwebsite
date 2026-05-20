@@ -71,7 +71,7 @@ year: 2011 - 2026
 listing_image: /assets/img/works/to_let_the_world_in/to_let_the_world_in_5.
   benita perciyal | img_1014_1X1.jpg
 gradient:
-  light: "564537"
+  light: "aa998b"
   dark: "564537"
 ---
 **[MARUTS ↗](https://youtu.be/jWRASqrdznU?si=pxzFmuoPcC0HITIm)**

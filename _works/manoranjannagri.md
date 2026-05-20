@@ -31,7 +31,7 @@ gallery:
     position: bottom-right
 gradient:
   light: F79807
-  dark: F79807
+  dark: 905700
 links:
   - name: Kunsthalle Winterthur
     href: https://kunsthallewinterthur.ch/en/dezember-ausstellung-2019

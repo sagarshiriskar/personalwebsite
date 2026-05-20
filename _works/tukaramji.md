@@ -102,7 +102,7 @@ gallery:
     src: /assets/img/works/tukaramji/tukaramji_05400006.jpg
     position: half
 gradient:
-  light: "707070"
+  light: "b0b0b0"
   dark: "707070"
 listing_image: /assets/img/works/tukaramji/tukaramji_04870026_1.jpg
 ---

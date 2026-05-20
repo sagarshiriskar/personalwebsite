@@ -55,7 +55,7 @@ gallery:
     position: half
 gradient:
   light: EBEEEA
-  dark: EBEEEA
+  dark: 3d312d
 hero:
   - type: image
     src: /assets/img/works/juhu beach/juhu_beach_2025_documenatation_of_work_3.png

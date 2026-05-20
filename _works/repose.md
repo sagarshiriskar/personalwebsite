@@ -19,6 +19,6 @@ gallery:
     position: half
 gradient:
   light: CEBCAE
-  dark: CEBCAE
+  dark: 4f463f
 listing_image: /assets/img/works/repose/repose_documentation_of_work_NIK_0107.jpg
 ---

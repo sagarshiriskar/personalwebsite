@@ -36,7 +36,7 @@ description: "Wir Menschen leben über das Mass hinaus. Wir streben nach immer
   Umdenken bewegen? Welche Ansätze und Visionen hält die Kunst bereit, um die
   Verhältnisse anders zu sehen?"
 gradient:
-  light: 6B7759
-  dark: 6D7A5B
+  light: a7b296
+  dark: 3b452e
 ---
 Wir Menschen leben über das Mass hinaus. Wir streben nach immer grösseren Gesten und Gedanken, besitzen meist viel mehr als wir brauchen. So berührt der Titel „Über die Verhältnisse“ eine globale Realität: Wir verbrauchen mehr Ressourcen, als unser Planet bereitstellen kann. Wie spiegelt sich diese Spannung zwischen Überkonsum und dem Bewusstsein der End­ lichkeit unserer Ressourcen in der Kunst wider? Vermag die künstlerische Dimension von Nachhaltig- keit mehr zu sein als die Verwendung von recycelten Materialien und systemkritischen Sujets? Kann Kunst als ästhetischer Im- pulsgeber uns zum Umdenken bewegen? Welche Ansätze und Visionen hält die Kunst bereit, um die Verhältnisse anders zu sehen?

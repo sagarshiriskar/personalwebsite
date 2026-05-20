@@ -96,7 +96,7 @@ gallery:
     position: center
 gradient:
   light: A1A1A1
-  dark: A1A1A1
+  dark: 383838
 links:
   - name: Tagblatt
     href: https://www.tagblatt.ch/ostschweiz/toggenburg/vernissage-in-lichtensteig-dank-crowdfunding-aktion-fand-der-indische-fotograf-sagar-shiriskar-vom-fusse-des-himalaya-in-die-saentisregion-ld.1111667
