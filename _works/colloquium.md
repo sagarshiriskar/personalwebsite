@@ -23,7 +23,7 @@ gallery:
     position: half
   - type: video
     src: /assets/img/works/colloquium/colloquium_documentation_of_the_work_.mp4
-    position: half
+    position: bottom-right
 listing_image: /assets/img/works/colloquium/colloquium-nik-1040-2.jpg
 gradient:
   light: ad7d76
