@@ -41,6 +41,10 @@ gallery:
     src: /assets/img/works/diaries from an unconventional
       journey/tearsheets_newspaper_articles_posters_certificates_website_screenshots_000174.jpg
     position: half
+  - type: video
+    src: /assets/img/works/diaries from an unconventional
+      journey/diaries_from_an_unconventional_journey_long_teaser_less_than_100mb.mp4
+    position: half
 listing_image: /assets/img/works/diaries from an unconventional
   journey/diaries_from_an_unconventional_journey_000024.jpg
 links:
