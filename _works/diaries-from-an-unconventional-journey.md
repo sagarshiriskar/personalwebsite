@@ -18,8 +18,8 @@ layout: work
 media_gap: small
 year: "2022"
 gradient:
-  light: C4AB84
-  dark: C4AB84
+  light: E2D5C2
+  dark: E2D5C2
 gallery:
   - type: image
     src: /assets/img/works/diaries from an unconventional
