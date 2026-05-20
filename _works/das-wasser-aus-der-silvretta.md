@@ -23,9 +23,6 @@ gallery:
     src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-6.jpg
     position: half
   - type: image
-    src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-1.jpg
-    position: half
-  - type: image
     src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-3.jpg
     position: half
   - type: image
