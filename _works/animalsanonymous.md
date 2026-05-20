@@ -19,7 +19,7 @@ gallery:
   - type: image
     src: /assets/img/works/animals_anonymous/animals_anonymous_uber_die_verhaltnisse_documentation_of_work_uber_die_verhaltnisse_nov_2025_documentation_of_works_haus_zur_glocke_steckborn_19.jpg
     position: top-left
-  - type: image
+  - type: video
     src: /assets/img/works/animals_anonymous/bees_and_apple_less_than_100mb.mp4
     position: top-right
 links:
