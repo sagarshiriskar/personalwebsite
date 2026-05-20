@@ -32,7 +32,7 @@ links:
     href: https://www.gettyimages.ae/photos/torch-cannes-day-5-variety-un-hyde-park-imagenation-party-for-chance-of-a-lifetime-the-66th-annual-cannes-film-festival
   - name: UCLA Burkle Center for International Relations
     href: https://burkle.ucla.edu/burkle/event/10463
-media_gap: small
+media_gap: none
 hero:
   - type: image
     src: /assets/img/works/united_nations_millenium_development_goals_short_films/coal_cannes_film_festival_chance_of_a_lifetime_4.jpg
