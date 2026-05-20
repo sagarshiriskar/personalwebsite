@@ -20,10 +20,10 @@ hero:
 gallery:
   - type: image
     src: /assets/img/works/colloquium/colloquium-nik-1040.jpg
-    position: top-left
+    position: half
   - type: video
     src: /assets/img/works/colloquium/colloquium_documentation_of_the_work_.mp4
-    position: top-right
+    position: half
 listing_image: /assets/img/works/colloquium/colloquium-nik-1040-2.jpg
 gradient:
   light: 88554D
