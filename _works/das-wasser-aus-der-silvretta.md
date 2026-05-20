@@ -2,7 +2,7 @@
 name: das_wasser_aus_der_silvretta
 title: das wasser aus der silvretta
 layout: work
-media_gap: small
+media_gap: none
 description: "Dimensions (cms): 50 X 31 (approx) Video (loop) projection  As
   artist in residence: Kunsthaus Klosters - 800 years of Klosters  Special
   thanks to Helmut Weissert and the team of Kunsthaus KlostersInstallation View:
