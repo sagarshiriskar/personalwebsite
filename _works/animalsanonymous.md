@@ -8,7 +8,7 @@ hero:
   - type: image
     src: /assets/img/works/animals_anonymous/animals_anonymous_uber_die_verhaltnisse_documentation_of_work_uber_die_verhaltnisse_nov_2025_documentation_of_works_haus_zur_glocke_steckborn_flyer.png
     size: "50"
-media_gap: medium
+media_gap: small
 gallery:
   - type: image
     src: /assets/img/works/animals_anonymous/animals_anonymous_img_3735.jpg
