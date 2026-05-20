@@ -15,7 +15,7 @@ description: >-
 
   63 minutes - 4K - English, Hebrew - Swiss Production
 layout: work
-media_gap: large
+media_gap: small
 year: "2022"
 gradient:
   light: C4AB84
