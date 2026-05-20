@@ -10,7 +10,9 @@ layout: default
 
 <div class="info_left">
     {% for image in info.images %}
-    <img src="{{ image.url }}" class="media_{{ image.size }}" />
+    <div class="info_image media_{{ image.size }}">
+        <img src="{{ image.url }}" alt="{{ image.alt }}" />
+    </div>
     {% endfor %}
 </div>
 

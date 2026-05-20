@@ -337,13 +337,26 @@ header {
     .info_left {
       display: flex; flex-direction: column; gap: 40px;
       padding: 40px;
-      img {
-        width: 100%; max-width: 100%;
-        height: auto;
+      min-width: 0;
+      align-items: flex-start;
+      .info_image {
         flex-shrink: 0;
+        align-self: flex-start;
+        max-width: 100%;
         &.media_25 {max-width: 25%}
         &.media_50 {max-width: 50%}
         &.media_75 {max-width: 75%}
+        &.media_100 {
+          width: 100%;
+          max-width: 100%;
+        }
+        &:not(.media_100) {width: fit-content}
+        img {
+          width: 100%;
+          height: auto;
+          max-width: 100%;
+          display: block;
+        }
       }
     }
     .info_right {
@@ -474,9 +487,14 @@ header {
       overflow-x: auto; gap: 20px;
       min-height: 210px; height: fit-content;
       width: fit-content;
-      img {
-        height: 200px; min-height: 200px; object-fit: contain;
-        width: fit-content; max-width: 100%!important;
+      .info_image {
+        flex-shrink: 0;
+        min-width: fit-content;
+        img {
+          min-width: fit-content;
+          height: 200px; min-height: 200px; object-fit: contain;
+          width: fit-content; max-width: 100%!important;
+        }
       }
     }
     .info_right {
