@@ -101,6 +101,8 @@ header {
     ) {text-decoration: none}
     &:hover, &:focus {
       color: var(--color-link); font-weight: bold;
+      font-style: italic;
+      text-decoration: none;
     }
   }
   #logo_link {font-weight: bold}
