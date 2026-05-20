@@ -16,8 +16,7 @@ layout: default
 
 <div class="info_right">
     <div class="description">
-        <p>{{ description.text1 }}</p>
-        <p>{{ description.text2 }}<a href="mailto:{{ site.data.company.email }}">{{ site.data.company.email }}</a></p>
+        {{ description.text | replace: "[email]", site.data.company.email | markdownify }}
     </div>
     {% if info.body %}
     <div class="row">

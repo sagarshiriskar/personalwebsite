@@ -122,8 +122,7 @@ content:
       }
       - { name: description, label: Description, type: object,
           fields: [
-            { name: "text1", label: "First paragraph", type: "string" },
-            { name: "text2", label: "Second paragraph", type: "string" }
+            { name: "text", label: "About text", type: "text", description: "Free text for the about page. Use [email] where the contact email should appear (plain text from Company / Contact, not a link)." }
           ]
       }
       - { name: body, label: "Description of work", type: rich-text }
