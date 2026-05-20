@@ -11,7 +11,7 @@ links:
     href: https://www.kunsthausklosters.ch/?page_id=332
   - name: Klosters 800
     href: https://www.klosters800.ch/kunsthaus-klosters
-media_gap: medium
+media_gap: none
 hero:
   - type: image
     src: /assets/img/works/zigarettenstummel/zigarettenstummel-11.jpg
@@ -19,7 +19,7 @@ hero:
 gallery:
   - type: image
     src: /assets/img/works/zigarettenstummel/zigarettenstummel-documentation-of-work-5.jpg
-    position: half
+    position: top-right
 gradient:
   light: "334E05"
   dark: "334E05"
