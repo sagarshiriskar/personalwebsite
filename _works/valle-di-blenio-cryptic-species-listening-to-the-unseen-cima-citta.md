@@ -75,8 +75,8 @@ hero:
     size: "50"
 gallery:
   - type: image
-    src: /assets/img/works/valle-di-blenio/cryptic-species-documentation-8.jpg
-    position: center
+    src: /assets/img/works/valle-di-blenio/cryptic_species_video_documentation_less_than_100mb.mp4
+    position: top-right
 gradient:
   light: F9E7CC
   dark: F9E7CC
