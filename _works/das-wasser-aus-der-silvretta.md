@@ -43,7 +43,7 @@ gallery:
 hero:
   - type: image
     src: /assets/img/works/das-wasser-aus-der-silvretta/silvretta-2.jpg
-    size: "50"
+    size: "25"
 gradient:
   light: 9a9495
   dark: 0C0607
