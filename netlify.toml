@@ -1,0 +1,6 @@
+[build]
+  command = "bundle exec ruby scripts/sync_works_order.rb && bundle exec jekyll build"
+  publish = "_site"
+
+[build.environment]
+  JEKYLL_ENV = "production"

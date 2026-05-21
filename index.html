@@ -8,7 +8,7 @@ layout: default
 {% if site.works.size > 0 %}
 <ul>
   {% assign first_listing_image = nil %}
-  {% assign ordered_works = site.data.ordered_works | default: site.works %}
+  {% include ordered_works.liquid %}
   {% for work in ordered_works %}
   {% unless work.draft %}
   <li hero-url="{{ work.listing_image | default: '-' }}"><a href="{{ work.url }}">

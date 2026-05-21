@@ -1,0 +1,33 @@
+name: Sync works order
+
+on:
+  push:
+    branches: [main, master]
+    paths:
+      - "_works/**"
+      - "scripts/sync_works_order.rb"
+      - "lib/works_order_sync.rb"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Sync _data/works_order.yml
+        run: bundle exec ruby scripts/sync_works_order.rb
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: sync works_order.yml with works collection"
+          file_pattern: "_data/works_order.yml"
