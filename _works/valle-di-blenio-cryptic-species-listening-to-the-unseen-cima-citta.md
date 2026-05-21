@@ -74,7 +74,7 @@ hero:
     src: /assets/img/works/valle-di-blenio/cima-citta-documentation-of-the-work-9.jpg
     size: "50"
 gallery:
-  - type: image
+  - type: video
     src: /assets/img/works/valle-di-blenio/cryptic_species_video_documentation_less_than_100mb.mp4
     position: top-right
 gradient:
