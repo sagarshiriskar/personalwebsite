@@ -2,7 +2,7 @@
 name: birds_hands_food_loop
 title: birds_hands_food_loop
 layout: work
-media_gap: small
+media_gap: none
 year: "2025"
 description: "Wir Menschen leben über das Mass hinaus. Wir streben nach immer
   grösseren Gesten und Gedanken, besitzen meist viel mehr als wir brauchen. So
@@ -25,7 +25,7 @@ hero:
 gallery:
   - type: image
     src: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_1_1X1.jpg
-    position: top-right
+    position: half
 gradient:
   light: 98c8a6
   dark: "304233"
