@@ -21,8 +21,6 @@ links:
 media_gap: none
 gallery:
   - type: image
-    position: top-left
-  - type: image
     src: /assets/img/works/the_twilight_home/the_twilight_home_000004.jpg
     position: top-right
 hero:

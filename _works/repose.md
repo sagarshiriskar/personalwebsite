@@ -2,7 +2,7 @@
 name: repose
 title: repose
 layout: work
-media_gap: medium
+media_gap: none
 year: "2021"
 links:
   - name: Hallo Tod!
