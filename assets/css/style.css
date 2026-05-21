@@ -136,7 +136,7 @@ header {
           color: var(--color-text);
           &.active, &:hover, &:focus {
             background:var(--color-hover);
-            .title {font-weight: bold}
+            .title {font-style: italic}
           }
           p {margin: 0}
           .img {display: none}
