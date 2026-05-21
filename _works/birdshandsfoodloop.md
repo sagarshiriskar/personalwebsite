@@ -21,7 +21,7 @@ listing_image: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_3_1
 hero:
   - type: image
     src: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_2_1X1.jpg
-    size: "50"
+    size: "25"
 gallery:
   - type: image
     src: /assets/img/works/birds_hands_food_loop/birds_hands_food_loop_1_1X1.jpg
