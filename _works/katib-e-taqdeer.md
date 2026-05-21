@@ -58,38 +58,29 @@ description: >-
 year: "2018"
 layout: work
 media_gap: small
-listing_image: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_12. ghalib
-  making a name plate for his customers | img_1857.jpg
+listing_image: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_12-ghalib-making-a-name-plate-for-his-customers-img_1857.jpg
 hero:
   - type: image
     src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_img_7404.jpg
     size: "50"
 gallery:
   - type: image
-    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_7. a customer sits and
-      watches ghalib work late in the afternoon | img_9481.jpg
+    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_7-a-customer-sits-and-watches-ghalib-work-late-in-the-afternoon-img_9481.jpg
     position: half
   - type: image
-    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_17. ghalib takes the ac
-      bus home when he is tired. on this day, he has been waiting for long, and
-      as no bus shows up, he decides to take the shared auto rickshaw home.
-      behind him is the red fort | img_0076.jpg
+    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_17-ghalib-takes-the-ac-bus-home-when-he-is-tired-on-this-day-he-has-been-waiting-for-long-and-as-no-bus-shows-up-he-decides-to-take-the-shared-auto-rickshaw-home-behind-him-is-the-red-fort-img_0076.jpg
     position: half
   - type: image
-    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_18. ghalib takes the ac
-      bus home when he is tired. on this day, he has been waiting long and as no
-      bus shows up, he crosses the road to take the shared auto rickshaw instead
-      | img_0097.jpg
+    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_18-ghalib-takes-the-ac-bus-home-when-he-is-tired-on-this-day-he-has-been-waiting-long-and-as-no-bus-shows-up-he-crosses-the-road-to-take-the-shared-auto-rickshaw-instead-img_0097.jpg
     position: half
   - type: image
-    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_24. urdu text.jpg
+    src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_24-urdu-text.jpg
     position: bottom-right
   - type: image
     src: /assets/img/works/katib-e-taqdeer/katib-e-taqdeer_documentation_of_works_nik_3238.jpg
     position: half
   - type: image
-    src: /assets/img/works/katib-e-taqdeer/Toggenburger
-      Tagblatt_katib-e-taqdeer_tearsheet_newspaper_article.jpeg
+    src: /assets/img/works/katib-e-taqdeer/Toggenburger-Tagblatt_katib-e-taqdeer_tearsheet_newspaper_article.jpeg
     position: top-left
   - type: video
     src: /assets/img/works/katib-e-taqdeer/documentation_of_work_printing_process_katib_e_taqdeer.mp4

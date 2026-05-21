@@ -3,11 +3,11 @@ name: mannequin
 title: mannequin
 layout: work
 media_gap: small
-listing_image: /assets/img/works/mannequin/mannequin_4. img_4541.jpg
+listing_image: /assets/img/works/mannequin/mannequin_4-img_4541.jpg
 year: "2019"
 gallery:
   - type: image
-    src: /assets/img/works/mannequin/mannequin_1. img_0030.jpg
+    src: /assets/img/works/mannequin/mannequin_1-img_0030.jpg
     position: top-left
   - type: image
     src: /assets/img/works/mannequin/mannequin_documentation_of_work_kunstkasten_winterthur_villa_strauli_nik_9971.jpg
@@ -16,7 +16,7 @@ gallery:
     src: /assets/img/works/mannequin/mannequin_documentation_of_work_kunstkasten_winterthur_villa_strauli_nik_0062.jpg
     position: top-left
   - type: image
-    src: /assets/img/works/mannequin/mannequin_8. img_4594.jpg
+    src: /assets/img/works/mannequin/mannequin_8-img_4594.jpg
     position: top-right
   - type: video
     src: /assets/img/works/mannequin/documentation_kunstkasten_mannequin_burlesque.mp4
