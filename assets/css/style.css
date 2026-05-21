@@ -5,7 +5,7 @@
   /* Colors */
   --color-background: light-dark(#ffffff, #000000);
   --color-text: light-dark(#000000, #e5e5e5);
-  --color-link: light-dark(#0043b8, #92d9ff);
+  --color-link: light-dark(#000000, #e5e5e5);
   --color-border: light-dark(#000000, #626262);
   --color-hover: light-dark(#0002, #fff2);
   --color-scroll: light-dark(#0003, #fff3);
@@ -100,12 +100,11 @@ header {
       body:has(.info_right) a[href="/about"]
     ) {text-decoration: none}
     &:hover, &:focus {
-      color: var(--color-link); font-weight: bold;
+      color: var(--color-text);
       font-style: italic;
       text-decoration: none;
     }
   }
-  #logo_link {font-weight: bold}
 }
 
 #main {
@@ -160,7 +159,8 @@ header {
       align-items: center; place-content: start;
       font-size: var(--navlink-font-size);
       margin: 0 0 20px 0;
-      a:not(:hover, :focus), p {color: var(--color-text)}
+      a, p {color: var(--color-text)}
+      a:hover, a:focus {color: var(--color-text)}
       a, p {font-weight: normal; margin: 0}
     }
     .work_hero {
@@ -377,7 +377,8 @@ header {
         .policies {
           border-top: var(--border);
           display: flex; flex-direction: row; gap: 8px;
-          a:not(:hover, :focus) {color: var(--color-text)}
+          a {color: var(--color-text)}
+          a:hover, a:focus {color: var(--color-text)}
         }
         h3 {
           margin: 0; font-size: 14px;
@@ -389,7 +390,8 @@ header {
         li {
             margin: 10px 0 10px 10px; place-content: start;
             p {margin: 0; display: inline}
-            a:not(:hover, :focus) {color: var(--color-text)}
+            a {color: var(--color-text)}
+            a:hover, a:focus {color: var(--color-text)}
         }
     }
   }
