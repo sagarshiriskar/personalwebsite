@@ -2,7 +2,7 @@
 name: artist_collaborations
 title: artist collaborations
 layout: work
-media_gap: none
+media_gap: small
 hero:
   - type: image
     src: /assets/img/works/maruts/maruts_12-img_4542.jpg
@@ -56,7 +56,7 @@ gallery:
 year: 2011 - 2026
 listing_image: /assets/img/works/to_let_the_world_in/to_let_the_world_in_5-benita-perciyal-img_1014_1X1.jpg
 gradient:
-  light: "aa998b"
+  light: aa998b
   dark: "564537"
 ---
 **[MARUTS ↗](https://youtu.be/jWRASqrdznU?si=pxzFmuoPcC0HITIm)**
