@@ -323,9 +323,17 @@ header {
       }
       .text {
         max-width: 600px;
+        a:hover, a:focus {
+          font-style: italic;
+          text-decoration: none;
+        }
       }
       .meta {
         display: flex; flex-direction: column; min-width: 200px;
+        a:hover, a:focus {
+          font-style: italic;
+          text-decoration: none;
+        }
       }
     }
   }
