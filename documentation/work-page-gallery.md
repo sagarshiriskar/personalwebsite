@@ -17,7 +17,7 @@ On viewports under 768px, the gallery uses **one column** (gap and margins are s
 
 ## Homepage work order
 
-See [works-order.md](works-order.md).
+See [works-order.md](works-order.md). For the desktop hover preview and preload behavior, see [homepage-work-preview.md](homepage-work-preview.md).
 
 ---
 
@@ -27,7 +27,7 @@ Editable in Pages CMS under each work (template **`work`**, set automatically):
 
 - **`title`**, **`description`**, **`body`** — title, short text, and main rich-text content
 - **`year`** — optional line in the meta block
-- **`listing_image`** — preview on the homepage only (not on the work page itself)
+- **`listing_image`** — preview on the homepage only (not on the work page itself); see [homepage-work-preview.md](homepage-work-preview.md)
 - **`hero`** — optional top banner; each item is image or video with **`size`** 25, 50, 75, or 100 (% width)
 - **`links`** — list of `{ name, href }` in the meta block
 - **`logos`** — list of images (shown at 60px height)

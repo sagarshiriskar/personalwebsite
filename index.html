@@ -23,23 +23,57 @@ layout: default
 
 <style>
   #works-preview {
-    background-image: url('{% if first_listing_image %}{{ first_listing_image | relative_url }}{% endif %}');
+    background-image: url('{% if first_listing_image %}{{ first_listing_image }}{% endif %}');
   }
 </style>
 
 <script>
-  // Change Image Preview
-  const works_list = document.querySelectorAll('#main ul li');
-  works_list.forEach(function(item) {
-    item.addEventListener('mouseover', function() {
-      const image = this.getAttribute('hero-url');
-      if (image && image !== '-') {
-        document.getElementById('works-preview').style.backgroundImage = `url('${image}')`;
-        works_list.forEach(x => x.classList.remove('active'));
-        item.classList.add('active');
-      }
+  // Wrap in a function so our variables stay private and don't leak into the global page scope.
+  (function() {
+    // The empty box on the right where the big preview image appears (desktop only).
+    const preview = document.getElementById('works-preview');
+    // Every project row in the list on the left.
+    const works_list = document.querySelectorAll('#main ul li');
+
+    // Download an image in the background so the browser caches it for instant hover swaps later.
+    function preload(url) {
+      return new Promise(function(resolve) {
+        const img = new Image();
+        // Whether the image loads or fails, move on — don't block the rest of the queue.
+        img.onload = img.onerror = function() { resolve(url); };
+        img.src = url;
+      });
+    }
+
+    // Build an ordered list of preview image URLs from each row's hero-url attribute.
+    const urls = [];
+    works_list.forEach(function(item) {
+      const url = item.getAttribute('hero-url');
+      // Skip placeholders and duplicates (two projects can share the same image).
+      if (url && url !== '-' && urls.indexOf(url) === -1) urls.push(url);
     });
-  });
+
+    const first = urls[0];
+    const rest = urls.slice(1);
+    // Load the first image before starting the rest, so it doesn't compete for bandwidth.
+    if (first) {
+      preload(first).then(function() {
+        rest.forEach(function(url) { preload(url); });
+      });
+    }
+
+    // On hover, swap the right-hand preview to this project's image (should be instant if preloaded).
+    works_list.forEach(function(item) {
+      item.addEventListener('mouseover', function() {
+        const image = this.getAttribute('hero-url');
+        if (image && image !== '-') {
+          preview.style.backgroundImage = "url('" + image + "')";
+          works_list.forEach(function(x) { x.classList.remove('active'); });
+          item.classList.add('active');
+        }
+      });
+    });
+  })();
 </script>
 {% else %}
 <p>No works yet.</p>
