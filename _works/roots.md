@@ -6,7 +6,7 @@ media_gap: small
 listing_image: /assets/img/works/roots/roots-documentation-of-works.jpg
 year: "2021"
 links:
-  - name: fundaziun nairs
+  - name: Fundaziun Nairs
     href: https://nairs.ch/de/artists-in-residence/sagar-shiriskar/
 hero:
   - type: image

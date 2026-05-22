@@ -18,7 +18,7 @@ gallery:
     position: top-right
   - type: video
     src: /assets/img/works/animals_anonymous/bees_and_apple_less_than_100mb.mp4
-    position: top-left
+    position: center
 links:
   - name: Haus Zur Glocke
     href: https://hauszurglocke.ch/agenda/detail/finissage-von-ueber-die-verhaeltnisse
