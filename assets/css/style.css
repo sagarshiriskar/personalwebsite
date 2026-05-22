@@ -166,7 +166,9 @@ header {
     .work_hero {
       display: flex; flex-wrap: wrap; gap: var(--media-gap);
       video {
-        min-height: 170px; height: fit-content;
+        aspect-ratio: 16 / 9;
+        min-height: 170px;
+        height: auto;
         align-self: end;
       }
     }
@@ -196,13 +198,18 @@ header {
           max-height: 100%;
           object-fit: contain;
         }
+        video {
+          aspect-ratio: 16 / 9;
+          width: 100%;
+          height: auto;
+        }
         /* full: span 2 columns, media scales to fit cell */
         &.position_full {
           grid-column: 1 / -1;
         }
         &.position_full :is(img, video) {
           width: 100%;
-          height: 100%;
+          height: auto;
           margin: 0;
         }
         /* center: span 2 columns, image centered at 75% width */
@@ -281,7 +288,7 @@ header {
         }
         .gallery_cell.position_center :is(img, video) {
           width: 100%;
-          height: 100%;
+          height: auto;
           max-width: none;
           margin: 0;
         }

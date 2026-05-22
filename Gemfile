@@ -38,4 +38,5 @@ gem "base64"
 gem "logger"
 
 gem "webrick"
+gem "fastimage", "~> 2.3"
 # gem "did_you_mean"

@@ -9,7 +9,9 @@ Work pages use **`_layouts/work.liquid`**. Optional **hero** (images/videos with
 | `half`      | Single cell; image centered, scaled to fit. |
 | `top-left`, `top-right`, `bottom-left`, `bottom-right` | Image anchored to that corner of the cell (e.g. portrait in bottom-left sits with its bottom-left at the cell’s); margin on the opposite sides for spacing. |
 
-Images stay inside each cell (`object-fit: contain`, max-width 100%). **`media_gap`** sets the grid gap and the extra margin on corner-placed images. Presets use **vw** (`none` = 0, `small` = 2vw, `medium` = 5vw, `large` = 10vw in **`_data/media_gap.yml`**; default **`medium`**). The work layout sets `--media-gap` on `.work_gallery`; styles live in **`assets/css/style.css`**. With **`none`**, the grid has no gap and corner positions are centered like half-width items.
+Images stay inside each cell (`object-fit: contain`, max-width 100%). Build-time **`width`** / **`height`** on images and video placeholders prevent layout shift when media loads — see [work-page-image-loading.md](work-page-image-loading.md).
+
+**`media_gap`** sets the grid gap and the extra margin on corner-placed images. Presets use **vw** (`none` = 0, `small` = 2vw, `medium` = 5vw, `large` = 10vw in **`_data/media_gap.yml`**; default **`medium`**). The work layout sets `--media-gap` on `.work_gallery`; styles live in **`assets/css/style.css`**. With **`none`**, the grid has no gap and corner positions are centered like half-width items.
 
 On viewports under 768px, the gallery uses **one column** (gap and margins are slightly reduced).
 

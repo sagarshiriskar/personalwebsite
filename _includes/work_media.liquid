@@ -1,0 +1,16 @@
+{% comment %}
+  Renders a work page image or video. Images get width/height from the file at build time
+  so the browser can reserve space before they load (less layout shift).
+  Pass: media (required), class (optional extra CSS classes)
+{% endcomment %}
+{% assign alt = include.media.alt | default: 'Image' %}
+{% assign media_type = include.media.type | default: 'image' %}
+{% if media_type == 'image' %}
+  {% assign dims = include.media.src | media_dimensions %}
+  <img{% if include.class %} class="{{ include.class }}"{% endif %} src="{{ include.media.src }}" alt="{{ alt }}"{% if dims %} width="{{ dims.width }}" height="{{ dims.height }}"{% endif %}>
+{% elsif media_type == 'video' %}
+  <video{% if include.class %} class="{{ include.class }}"{% endif %} controls>
+    <source src="{{ include.media.src }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+{% endif %}

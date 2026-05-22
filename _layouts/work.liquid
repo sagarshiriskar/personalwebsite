@@ -10,14 +10,8 @@ layout: default
   {% if page.hero %}
     <div class="work_hero">
       {% for media in page.hero %}
-        {% if media.type == 'image' %}
-          <img class="media_{{ media.size }}" src="{{ media.src }}" alt="{{ media.alt | default: 'Hero Image' }}" />
-        {% elsif media.type == 'video' %}
-          <video class="media_{{ media.size }}" controls>
-            <source src="{{ media.src }}" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-        {% endif %}
+        {% capture hero_class %}media_{{ media.size }}{% endcapture %}
+        {% include work_media.liquid media=media class=hero_class %}
       {% endfor %}
     </div>
   {% endif %}
@@ -47,13 +41,7 @@ layout: default
       {% for media in page.gallery %}
         {% assign pos = media.position | default: 'half' | replace: ' ', '-' %}
         <div class="gallery_cell position_{{ pos }}">
-          {% if media.type == 'image' %}
-            <img src="{{ media.src }}" alt="{{ media.alt | default: 'Hero Image' }}" />
-          {% elsif media.type == 'video' %}
-            <video controls>
-              <source src="{{ media.src }}" type="video/mp4">
-            </video>
-          {% endif %}
+          {% include work_media.liquid media=media %}
         </div>
       {% endfor %}
     </div>
@@ -62,7 +50,7 @@ layout: default
   {% if page.logos %}
     <div class="logo_gallery">
       {% for media in page.logos %}
-          <img src="{{ media.src }}" alt="{{ media.alt | default: 'Logo Image' }}" />
+        {% include work_media.liquid media=media %}
       {% endfor %}
     </div>
   {% endif %}
