@@ -25,6 +25,7 @@ _works/*.md  →  work.liquid  →  work_media.liquid  →  media_dimensions (Fa
 | File | Role |
 |------|------|
 | `_plugins/media_dimensions.rb` | Liquid filter `media_dimensions` |
+| `_plugins/youtube_id.rb` | See [work-page-youtube-embeds.md](work-page-youtube-embeds.md) |
 | `_includes/work_media.liquid` | One image or video tag |
 | `_layouts/work.liquid` | Includes `work_media` for hero, gallery, logos |
 | `assets/css/style.css` | Image sizing; video `aspect-ratio` |
@@ -53,11 +54,12 @@ Hero size class — do not use double quotes in `{% include %}`; use `capture`:
 
 | Parameter | Purpose |
 |-----------|---------|
-| `media` | Front matter: `type`, `src`, optional `alt` |
+| `media` | Front matter: `type`, `src` (image/video), `youtube_url` (YouTube), optional `alt` |
 | `class` | Optional (e.g. `media_50`) |
 
 - **Image** (`type: image`, or omitted for logos) → `<img>` with `width`/`height` when FastImage succeeds.
 - **Video** → `<video controls>`; no dimensions from FastImage.
+- **YouTube** → see [work-page-youtube-embeds.md](work-page-youtube-embeds.md).
 
 **Covered:** hero, gallery, logos. **Not covered:** images in the markdown **body** (`markdownify`).
 
@@ -85,4 +87,5 @@ Gallery **full** / **center** (`media_gap_none`) images use `height: auto` inste
 ## Related
 
 - [work-page-gallery.md](work-page-gallery.md) — grid, `position`, `media_gap`
+- [work-page-youtube-embeds.md](work-page-youtube-embeds.md) — YouTube embeds and `origin`
 - [homepage-work-preview.md](homepage-work-preview.md) — homepage listing previews (separate)

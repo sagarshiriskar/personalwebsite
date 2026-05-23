@@ -44,10 +44,11 @@ content:
             collapsed: true, summary: "{index}. {fields.type} - {fields.src}"
           }},
           fields: [
-            { name: "type", label: "Image or video", type: "select", default: "image", options: {
-              values: [ "image", "video", "empty" ]
+            { name: "type", label: "Media type", type: "select", default: "image", options: {
+              values: [ "image", "video", "youtube", "empty" ]
             }},
             { name: "src", label: "File", type: "file" },
+            { name: "youtube_url", label: "YouTube URL", type: "string", description: "Only when type is YouTube. Paste a watch or share link (e.g. https://www.youtube.com/watch?v=… or https://youtu.be/…)." },
             { name: "alt", label: "Image description", type: "string", description: "Short description shown if the image doesn't load." },
             { name: "size", label: "Width on page (%)", type: "select", default: "100", options: {
               values: [ "25", "50", "75", "100" ]
@@ -59,11 +60,12 @@ content:
             collapsed: true, summary: "{index}. {fields.position} - {fields.alt}"
           }},
           fields: [
-            { name: "type", label: "Image or video", type: "select", default: "image", options: {
-              values: [ "image", "video", "empty" ]
+            { name: "type", label: "Media type", type: "select", default: "image", options: {
+              values: [ "image", "video", "youtube", "empty" ]
             }},
             { name: "src", label: "File", type: "file" },
-            { name: "alt", label: "Image description", type: "string", description: "Short description shown if the image doesn't load." },
+            { name: "youtube_url", label: "YouTube URL", type: "string", description: "Only when type is YouTube. Paste a watch or share link (e.g. https://www.youtube.com/watch?v=… or https://youtu.be/…)." },
+            { name: "alt", label: "Image description", type: "string", description: "Short description shown if the image doesn't load. Also used as the YouTube embed title." },
             { name: "position", label: "Placement on page", type: "select", default: "half", options: {
               values: [ "full", "center", "half", "top-left", "top-right", "bottom-left", "bottom-right" ]
             }}

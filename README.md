@@ -33,3 +33,4 @@ Open [http://localhost:4000](http://localhost:4000). Restart the command if you 
 | Homepage work order | [documentation/works-order.md](documentation/works-order.md) |
 | Media file naming | [documentation/asset-file-naming.md](documentation/asset-file-naming.md) |
 | Work page gallery and layout | [documentation/work-page-gallery.md](documentation/work-page-gallery.md) |
+| Work page YouTube embeds | [documentation/work-page-youtube-embeds.md](documentation/work-page-youtube-embeds.md) |

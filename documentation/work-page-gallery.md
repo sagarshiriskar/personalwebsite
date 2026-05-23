@@ -30,11 +30,13 @@ Editable in Pages CMS under each work (template **`work`**, set automatically):
 - **`title`**, **`description`**, **`body`** — title, short text, and main rich-text content
 - **`year`** — optional line in the meta block
 - **`listing_image`** — preview on the homepage only (not on the work page itself); see [homepage-work-preview.md](homepage-work-preview.md)
-- **`hero`** — optional top banner; each item is image or video with **`size`** 25, 50, 75, or 100 (% width)
+- **`hero`** — optional top banner; each item is image, video, or YouTube with **`size`** 25, 50, 75, or 100 (% width)
 - **`links`** — list of `{ name, href }` in the meta block
 - **`logos`** — list of images (shown at 60px height)
 - **`media_gap`** — gallery spacing preset: `none`, `small`, `medium`, `large` (default `medium`)
-- **`gallery`** — list of images/videos; each item uses **`position`** only (no `size`). Default position in the CMS is **`half`**
+- **`gallery`** — list of images, videos, or YouTube embeds; each item uses **`position`** only (no `size`). Default position in the CMS is **`half`**
+
+**YouTube** — `type: youtube`, URL in **`youtube_url`** (not `src`). See [work-page-youtube-embeds.md](work-page-youtube-embeds.md) for CMS steps, the `origin` parameter on production, and troubleshooting.
 
 **`size` on work hero and About page (`_data/info.yml` images):**
 

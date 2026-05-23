@@ -1,5 +1,5 @@
 {% comment %}
-  Renders a work page image or video. Images get width/height from the file at build time
+  Renders a work page image, video, or YouTube embed. Images get width/height from the file at build time
   so the browser can reserve space before they load (less layout shift).
   Pass: media (required), class (optional extra CSS classes)
 {% endcomment %}
@@ -13,4 +13,30 @@
     <source src="{{ include.media.src }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
+{% elsif media_type == 'youtube' %}
+  {% assign yt_id = include.media.youtube_url | youtube_id %}
+  {% if yt_id %}
+    {% capture yt_src %}https://www.youtube.com/embed/{{ yt_id }}{% endcapture %}
+    {% if jekyll.environment == 'production' and site.data.seo.url != '' and site.data.seo.url != nil %}
+      {% capture yt_src %}{{ yt_src }}?origin={{ site.data.seo.url | uri_escape }}{% endcapture %}
+    {% endif %}
+    <div class="youtube_media{% if include.class %} {{ include.class }}{% endif %}">
+      <div class="youtube_embed">
+        <iframe
+          src="{{ yt_src }}"
+          title="{{ alt }}"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerpolicy="strict-origin-when-cross-origin"
+          allowfullscreen
+        ></iframe>
+      </div>
+      {% assign yt_watch = include.media.youtube_url | strip %}
+      {% unless yt_watch contains 'http://' or yt_watch contains 'https://' %}
+        {% capture yt_watch %}https://www.youtube.com/watch?v={{ yt_id }}{% endcapture %}
+      {% endunless %}
+      <p class="youtube_fallback">
+        <a href="{{ yt_watch }}" target="_blank" rel="noopener noreferrer">Watch on YouTube</a>
+      </p>
+    </div>
+  {% endif %}
 {% endif %}
