@@ -21,10 +21,9 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.3"
-          bundler-cache: true
 
       - name: Sync _data/works_order.yml
-        run: bundle exec ruby scripts/sync_works_order.rb
+        run: ruby scripts/sync_works_order.rb
 
       - name: Commit and push if changed
         uses: stefanzweifel/git-auto-commit-action@v5
