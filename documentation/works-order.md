@@ -67,6 +67,55 @@ Rewrites `_data/works_order.yml` in the Pages CMS shape. Skips writing when unch
 
 ---
 
+## Plugin and GitHub Action working together
+
+They play well together now — not tug-of-war. Here’s how it works in plain terms.
+
+### One shared rulebook
+
+Both the **GitHub Action** and the **local plugin** call the same code: `lib/works_order_sync.rb` (the Action via `scripts/sync_works_order.rb`). They use the same merge logic:
+
+- Keep the order already in `_data/works_order.yml`
+- Drop works that were deleted
+- Append new works at the end
+
+Neither invents its own order. They both update the **same file** the same way.
+
+### Who does what, when
+
+| Situation | What runs | What it does |
+|-----------|-----------|----------------|
+| **Save in Pages CMS** (new/changed work in `_works/`) | GitHub Action | Updates `works_order.yml` in the repo and commits it |
+| **Netlify deploy** | Sync script, then Jekyll | Syncs YAML on the build machine, then builds the site |
+| **Local `jekyll serve`** | Plugin | Runs the same sync on your machine, then sets `ordered_works` for the homepage |
+
+They don’t run at the same time on the same machine. The Action runs on GitHub after a push; the plugin runs when you build locally.
+
+### How the homepage gets the order
+
+- **Locally (plugin runs):** Homepage uses `site.data.ordered_works` from the plugin (built from the synced YAML).
+- **Netlify (plugin may not run):** Homepage uses `ordered_works.liquid`, which reads the same YAML.
+
+Same source of truth: `_data/works_order.yml`.
+
+### What “playing nice” means in practice
+
+1. **Reorder in Pages CMS** — Only `works_order.yml` changes. The Action does **not** run (it only watches `_works/`). Your order is saved as-is. Netlify and local Jekyll both read that file.
+
+2. **Add a work on the web** — Action appends it to `works_order.yml` and commits. You pull (or Netlify builds from main). Local plugin sees the same YAML and won’t fight it.
+
+3. **Add a work locally** — Plugin updates `works_order.yml` when you run Jekyll. You commit `_works/` and the YAML. The Action may run on push but usually finds everything already in sync and doesn’t change anything.
+
+4. **No more clobbering** — The plugin no longer replaces the YAML structure in memory, so the homepage and CMS stay aligned.
+
+### The only thing to watch
+
+Both paths assume slugs in `works_order.yml` match the work file names (e.g. `katib-e-taqdeer.md` → slug `katib-e-taqdeer`). That’s what the sync script uses. Your site is set up that way, which is why local order works again.
+
+**Bottom line:** The Action owns keeping the YAML in git when things change on the web. The plugin does the same sync locally for preview and keeps the homepage in sync. They’re teammates using the same rules, not two systems pulling in different directions.
+
+---
+
 ## One-time setup (Netlify + GitHub)
 
 Do once so new works sync automatically. Pages CMS is still where you edit content and drag **Order of works**.
@@ -144,7 +193,7 @@ You only need the **Actions** tab to check status or debug—not to start a run.
 
 ## Local Jekyll plugin (optional)
 
-`_plugins/works_order_generator.rb` calls the same sync library and sets `site.data.ordered_works` when you run `jekyll serve` locally. Production relies on the script + Liquid include instead.
+`_plugins/works_order_generator.rb` calls the same sync library and sets `site.data.ordered_works` when you run `jekyll serve` locally. It does not overwrite the YAML hash in memory. See [Plugin and GitHub Action working together](#plugin-and-github-action-working-together).
 
 ---
 
