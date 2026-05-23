@@ -17,7 +17,7 @@ module Jekyll
       slug_to_doc = docs.map { |doc| [slug_from_doc(doc), doc] }.to_h
       ordered_docs = ordered_slugs.filter_map { |slug| slug_to_doc[slug] }
 
-      site.data["works_order"] = ordered_slugs
+      # Keep site.data.works_order as the YAML hash (do not replace with a slug array).
       site.data["ordered_works"] = ordered_docs
     end
 

@@ -8,7 +8,11 @@ layout: default
 {% if site.works.size > 0 %}
 <ul>
   {% assign first_listing_image = nil %}
-  {% include ordered_works.liquid %}
+  {% if site.data.ordered_works and site.data.ordered_works.size > 0 %}
+    {% assign ordered_works = site.data.ordered_works %}
+  {% else %}
+    {% include ordered_works.liquid %}
+  {% endif %}
   {% for work in ordered_works %}
   {% unless work.draft %}
   <li hero-url="{{ work.listing_image | default: '-' }}"><a href="{{ work.url }}">

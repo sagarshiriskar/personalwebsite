@@ -1,25 +1,21 @@
 {% comment %}
-  Build ordered works from _data/works_order.yml without relying on a Jekyll plugin.
+  Build ordered works from _data/works_order.yml (Pages CMS shape: order: [{ slug: "..." }]).
   Preserves CMS order, appends works not yet in the file, skips unknown slugs.
 {% endcomment %}
 {% assign ordered_works = "" | split: "" %}
-{% assign order_list = site.data.works_order.order | default: nil %}
+{% assign order_list = site.data.works_order.order %}
 
 {% if order_list and order_list.size > 0 %}
   {% for item in order_list %}
-    {% assign slug = item.slug %}
-    {% for work in site.works %}
-      {% assign work_slug = work.url | remove: "/" %}
-      {% if work_slug == slug %}
-        {% assign ordered_works = ordered_works | push: work %}
-      {% endif %}
-    {% endfor %}
+    {% assign work = site.works | where: "slug", item.slug | first %}
+    {% if work %}
+      {% assign ordered_works = ordered_works | push: work %}
+    {% endif %}
   {% endfor %}
   {% for work in site.works %}
-    {% assign work_slug = work.url | remove: "/" %}
     {% assign in_order = false %}
     {% for item in order_list %}
-      {% if item.slug == work_slug %}
+      {% if item.slug == work.slug %}
         {% assign in_order = true %}
       {% endif %}
     {% endfor %}
