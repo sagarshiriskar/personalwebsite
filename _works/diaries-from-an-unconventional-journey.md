@@ -19,7 +19,7 @@ media_gap: small
 year: "2022"
 gradient:
   light: E2D5C2
-  dark: 453e32
+  dark: DCCDB5
 gallery:
   - type: image
     src: /assets/img/works/diaries-from-an-unconventional-journey/diaries_from_an_unconventional_journey_000020.jpg
@@ -41,9 +41,9 @@ gallery:
     position: half
 listing_image: /assets/img/works/diaries-from-an-unconventional-journey/diaries_from_an_unconventional_journey_000024.jpg
 links:
+  - name: Watch the film here
+    href: https://www.artfilm.ch/en/diaries-from-an-unconventional-journey
   - name: Swiss Films
-    href: https://www.swissfilms.ch/en/movie/diaries-from-an-unconventional-journey/730710f99d3845a393b4e532bbb9cf59
-  - name: www.artfilm.ch
     href: https://www.swissfilms.ch/en/movie/diaries-from-an-unconventional-journey/730710f99d3845a393b4e532bbb9cf59
 hero:
   - type: image
