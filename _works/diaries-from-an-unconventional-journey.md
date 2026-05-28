@@ -39,6 +39,9 @@ gallery:
   - type: video
     src: /assets/img/works/diaries-from-an-unconventional-journey/diaries_from_an_unconventional_journey_long_teaser_less_than_100mb.mp4
     position: half
+  - type: youtube
+    youtube_url: https://www.artfilm.ch/en/diaries-from-an-unconventional-journey
+    position: half
 listing_image: /assets/img/works/diaries-from-an-unconventional-journey/diaries_from_an_unconventional_journey_000024.jpg
 links:
   - name: Watch the film here
