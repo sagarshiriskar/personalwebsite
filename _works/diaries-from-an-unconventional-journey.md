@@ -44,7 +44,7 @@ gallery:
     position: half
 listing_image: /assets/img/works/diaries-from-an-unconventional-journey/diaries_from_an_unconventional_journey_000024.jpg
 links:
-  - name: Watch the film here
+  - name: www.artfilm.ch | Watch the film here
     href: https://www.artfilm.ch/en/diaries-from-an-unconventional-journey
   - name: Swiss Films
     href: https://www.swissfilms.ch/en/movie/diaries-from-an-unconventional-journey/730710f99d3845a393b4e532bbb9cf59
